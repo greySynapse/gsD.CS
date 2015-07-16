@@ -1,0 +1,43 @@
+{
+    "room":                     "Nightcore 331",
+    "author":                   "donvoo",
+    "css":                      "https://rawgit.com/donvoo/nc/nc/rcs.css",
+    "rules": {
+        "allowAutorespond":     true,
+        "allowAutowoot":        true,
+        "allowAutojoin":        true,
+        "allowAutograb":        true,
+        "allowSmartVote":       true,
+        "allowEmotes":          true,
+        "allowShowingMehs":     true,
+        "forceSmartVote":       false
+    },
+    "ccc": {
+        "admin":                "#1abc9c",
+        "ambassador":           "#2ecc71",
+        "host":                 "#e74c3c",
+        "cohost":               "#e74c3c",
+        "manager":              "#00FFFF",
+        "bouncer":              "#3498db",
+        "rdj":                  "#9b59b6",
+        "subscriber":           null,
+        "friend":               null,
+        "user":                 null
+    },
+    "images": {
+        "background":           "https://i.imgur.com/8MyVHBu.jpg",
+        "playback":             null,
+        "admin":                null,
+        "ambassador":           null,
+        "host":                 null,
+        "cohost":               null,
+        "manager":              null,
+        "bouncer":              null,
+        "rdj":                  null,
+        "subscriber":           null
+    },
+    "autocomplete": [],
+    "emotes": {
+        "firelenny":            "http://i.imgur.com/jleilmo.gif"
+    }
+}
