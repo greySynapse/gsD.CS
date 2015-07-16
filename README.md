@@ -7,3 +7,13 @@ Made by donvoo and greySynapse.
     Cool stuff.
   </ol>
 </li>
+
+<h1>Cool CSS Tricks</h1>
+<li>
+  <ol>
+    input:checked
+  </ol>
+  <ol>
+    http://www.w3schools.com/css/css_pseudo_elements.asp
+  </ol>
+</li>
