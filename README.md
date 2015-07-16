@@ -9,11 +9,11 @@ Made by donvoo and greySynapse.
 </li>
 
 <h1>Cool CSS Tricks</h1>
-<li>
-  <ol>
+<ol>
+  <li>
     <p>input:checked</p>
-  </ol>
-  <ol>
+  </li>
+  <li>
     <p>http://www.w3schools.com/css/css_pseudo_elements.asp</p>
-  </ol>
-</li>
+  </li>
+</ol>
