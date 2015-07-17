@@ -9,6 +9,12 @@ Made by donvoo and greySynapse.
   <li>
     Custom Rank Icons for: RDJ, Bouncer, Manager, CoHost, Host, BA.
   </li>
+  <li>
+    Transparent Footer And Chat
+  </li>
+  <li>
+    Footer Chat Be Black
+  </li>
 </ul>
 
 <h1>Cool CSS Tricks</h1>
