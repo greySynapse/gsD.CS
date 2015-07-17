@@ -1,7 +1,7 @@
 {
     "room":                     "Nightcore 331",
     "author":                   "donvoo & greySynapse",
-    "css":                      "PUTURLHERE",
+    "css":                      null,
     "rules": {
         "allowAutorespond":     true,
         "allowAutowoot":        true,
