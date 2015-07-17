@@ -55,3 +55,8 @@
   <li><p>Bouncer: TBD</p></li>
   <li><p>Resident DJ: TBD</p></li>
 </ul>
+
+<h1>List of Emotes</h1>
+<ul>
+  <li>:firelenny: <img src="http://i.imgur.com/jleilmo.gif"/></li>
+</ul>
