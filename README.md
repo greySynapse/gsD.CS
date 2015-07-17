@@ -18,6 +18,9 @@
   <li>
     Staff Colors
   </li>
+  <li>
+    New Emotes
+  </li>
 </ul>
 
 <h1>Cool CSS Tricks</h1>
