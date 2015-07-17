@@ -32,9 +32,9 @@ Made by donvoo and greySynapse.
 
 <h1>Staff Icons</h1>
 <ul>
-  <li><p>Brand Ambassador: </p></li>
-  <li><p>Host / Co-Host: </p></li>
-  <li><p>Manager: </p></li>
-  <li><p>Bouncer: </p></li>
-  <li><p>Resident DJ: </p></li>
+  <li><p>Brand Ambassador: <a href="http://i.imgur.com/HWucg1Is.jpg"></a></p></li>
+  <li><p>Host / Co-Host: <a href=""></a></p></li>
+  <li><p>Manager: <a href=""></a></p></li>
+  <li><p>Bouncer: <a href=""></a></p></li>
+  <li><p>Resident DJ: <a href=""></a></p></li>
 </ul>
