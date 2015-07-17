@@ -13,7 +13,7 @@ Made by donvoo and greySynapse.
     Transparent Footer And Chat
   </li>
   <li>
-    Footer Chat Be Black
+    Footer Bar Be Black
   </li>
 </ul>
 
