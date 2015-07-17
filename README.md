@@ -58,5 +58,5 @@
 
 <h1>List of Emotes</h1>
 <ul>
-  <li>:firelenny: <img src="http://i.imgur.com/jleilmo.gif"/></li>
+  <li><a href="http://i.imgur.com/jleilmo.gif" target="_blank">:firelenny:</a></li>
 </ul>
