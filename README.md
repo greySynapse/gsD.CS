@@ -33,7 +33,7 @@
   </li>
 </ul>
 
-<h1>Staff Icons<br><img src="http://i.imgur.com/HWucg1I.png"/><img src="http://i.imgur.com/U8pQ7xd.png"/><img src="http://i.imgur.com/oHkfEu4.png"/><img src="http://i.imgur.com/wLMWUcF.png"/><img src="http://i.imgur.com/OeBE8mp.png"/></h1>
+<h1>Staff Icons<br><img src="http://i.imgur.com/VY0ifWv.png"/></h1>
 <ul>
   <li><p>Brand Ambassador: <img src="http://i.imgur.com/HWucg1I.png"/></p></li>
   <li><p>Host / Co-Host: <img src="http://i.imgur.com/U8pQ7xd.png"/></p></li>
