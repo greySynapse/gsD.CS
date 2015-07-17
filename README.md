@@ -38,7 +38,7 @@
 
 <h1>Staff Icons<br><img src="http://i.imgur.com/VY0ifWv.png"/></h1>
 <ul>
-  <li><p>Admin: <img src="PUT_IT_HERE"/></p></li>
+  <li><p>Admin: <img src="http://i.imgur.com/k4W0M95.png"/></p></li>
   <li><p>Brand Ambassador: <img src="http://i.imgur.com/HWucg1I.png"/></p></li>
   <li><p>Host / Co-Host: <img src="http://i.imgur.com/U8pQ7xd.png"/></p></li>
   <li><p>Manager: <img src="http://i.imgur.com/oHkfEu4.png"/></p></li>
