@@ -48,7 +48,7 @@
 
 <h1>Staff Colors</h1>
 <ul>
-  <li><p>Admin: <img src="PUT_IT_HERE"/></p></li>
+  <li><p>Admin: TBD</p></li>
   <li><p>Brand Ambassador: TBD</p></li>
   <li><p>Host / Co-Host: TBD</p></li>
   <li><p>Manager: TBD</p></li>
