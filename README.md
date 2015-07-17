@@ -32,8 +32,8 @@ Made by donvoo and greySynapse.
 
 <h1>Staff Icons</h1>
 <ul>
-  <li><p>Brand Ambassador: <img src="http://i.imgur.com/HWucg1Is.jpg"/></p></li>
-  <li><p>Host / Co-Host: <img src="http://i.imgur.com/HWucg1Is.jpg"/></p></li>
+  <li><p>Brand Ambassador: <img src="http://i.imgur.com/HWucg1I.png"/></p></li>
+  <li><p>Host / Co-Host: <img src="http://i.imgur.com/U8pQ7xd.png"/></p></li>
   <li><p>Manager: <img src="http://i.imgur.com/HWucg1Is.jpg"/></p></li>
   <li><p>Bouncer: <img src="http://i.imgur.com/HWucg1Is.jpg"/></p></li>
   <li><p>Resident DJ: <img src="http://i.imgur.com/HWucg1Is.jpg"/></p></li>
