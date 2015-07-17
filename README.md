@@ -41,7 +41,7 @@
   <li><p>Bouncer: <img src="http://i.imgur.com/wLMWUcF.png"/></p></li>
   <li><p>Resident DJ: <img src="http://i.imgur.com/OeBE8mp.png"/></p></li>
 </ul>
-<center><img src="http://i.imgur.com/VY0ifWv.png"/></center>
+<img src="http://i.imgur.com/VY0ifWv.png"/>
 
 <h1>Staff Colors</h1>
 <p>TO BE WORKED ON</p>
