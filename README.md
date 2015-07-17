@@ -30,7 +30,7 @@ Made by donvoo and greySynapse.
   </li>
 </ul>
 
-<h1>Staff Icons</h1>
+<h1>Staff Icons<br><img src="http://i.imgur.com/HWucg1I.png"/><img src="http://i.imgur.com/U8pQ7xd.png"/><img src="http://i.imgur.com/oHkfEu4.png"/><img src="http://i.imgur.com/wLMWUcF.png"/><img src="http://i.imgur.com/OeBE8mp.png"/></h1>
 <ul>
   <li><p>Brand Ambassador: <img src="http://i.imgur.com/HWucg1I.png"/></p></li>
   <li><p>Host / Co-Host: <img src="http://i.imgur.com/U8pQ7xd.png"/></p></li>
@@ -38,4 +38,4 @@ Made by donvoo and greySynapse.
   <li><p>Bouncer: <img src="http://i.imgur.com/wLMWUcF.png"/></p></li>
   <li><p>Resident DJ: <img src="http://i.imgur.com/OeBE8mp.png"/></p></li>
 </ul>
-<p><img src="http://i.imgur.com/HWucg1I.png"/><img src="http://i.imgur.com/U8pQ7xd.png"/><img src="http://i.imgur.com/oHkfEu4.png"/><img src="http://i.imgur.com/wLMWUcF.png"/><img src="http://i.imgur.com/OeBE8mp.png"/></p>
+
