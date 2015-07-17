@@ -27,13 +27,13 @@
     "images": {
         "background":           "https://i.imgur.com/8MyVHBu.jpg",
         "playback":             null,
-        "admin":                null,
+        "admin":                "http://i.imgur.com/k4W0M95.png",
         "ambassador":           "http://i.imgur.com/HWucg1I.png",
         "host":                 "http://i.imgur.com/U8pQ7xd.png",
         "cohost":               "http://i.imgur.com/U8pQ7xd.png",
         "manager":              "http://i.imgur.com/oHkfEu4.png",
         "bouncer":              "http://i.imgur.com/wLMWUcF.png",
-        "rdj":                  "http://i.imgur.com/OeBE8mp.png",
+        "rdj":                  "http://i.imgur.com/k4W0M95.png",
         "subscriber":           null
     },
     "autocomplete": [],
