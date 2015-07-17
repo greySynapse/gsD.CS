@@ -16,4 +16,7 @@ Made by donvoo and greySynapse.
   <li>
     <p>http://www.w3schools.com/css/css_pseudo_elements.asp</p>
   </li>
+  <li>
+    <p>:not()</p>
+  </li>
 </ul>
