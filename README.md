@@ -7,7 +7,7 @@ Made by donvoo and greySynapse.
     Cool stuff.
   </li>
   <li>
-    Custom Rank Icons for: RDJ, Bouncer, Manager, CoHost, Host, BA.
+    Rank Colors.
   </li>
   <li>
     Transparent Footer And Chat
