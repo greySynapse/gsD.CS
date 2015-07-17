@@ -47,4 +47,11 @@
 </ul>
 
 <h1>Staff Colors</h1>
-<p>TO BE WORKED ON</p>
+<ul>
+  <li><p>Admin: <img src="PUT_IT_HERE"/></p></li>
+  <li><p>Brand Ambassador: TBD</p></li>
+  <li><p>Host / Co-Host: TBD</p></li>
+  <li><p>Manager: TBD</p></li>
+  <li><p>Bouncer: TBD</p></li>
+  <li><p>Resident DJ: TBD</p></li>
+</ul>
