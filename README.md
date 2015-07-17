@@ -33,7 +33,7 @@
   </li>
 </ul>
 
-<h1>Staff Icons</h1>
+<h1>Staff Icons<br><img src="http://i.imgur.com/VY0ifWv.png"/></h1>
 <ul>
   <li><p>Brand Ambassador: <img src="http://i.imgur.com/HWucg1I.png"/></p></li>
   <li><p>Host / Co-Host: <img src="http://i.imgur.com/U8pQ7xd.png"/></p></li>
@@ -41,7 +41,6 @@
   <li><p>Bouncer: <img src="http://i.imgur.com/wLMWUcF.png"/></p></li>
   <li><p>Resident DJ: <img src="http://i.imgur.com/OeBE8mp.png"/></p></li>
 </ul>
-<img src="http://i.imgur.com/VY0ifWv.png"/>
 
 <h1>Staff Colors</h1>
 <p>TO BE WORKED ON</p>
