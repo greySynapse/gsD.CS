@@ -32,7 +32,7 @@ Made by donvoo and greySynapse.
 
 <h1>Staff Icons</h1>
 <ul>
-  <li><p>Brand Ambassador: <a href="http://i.imgur.com/HWucg1Is.jpg"></a></p></li>
+  <li><p>Brand Ambassador: </p><a href="http://i.imgur.com/HWucg1Is.jpg"></a></li>
   <li><p>Host / Co-Host: <a href=""></a></p></li>
   <li><p>Manager: <a href=""></a></p></li>
   <li><p>Bouncer: <a href=""></a></p></li>
