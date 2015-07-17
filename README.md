@@ -15,6 +15,9 @@ Made by donvoo and greySynapse.
   <li>
     Footer Bar Be Black
   </li>
+  <li>
+    Staff Colors
+  </li>
 </ul>
 
 <h1>Cool CSS Tricks</h1>
@@ -39,3 +42,5 @@ Made by donvoo and greySynapse.
   <li><p>Resident DJ: <img src="http://i.imgur.com/OeBE8mp.png"/></p></li>
 </ul>
 
+<h1>Staff Colors</h1>
+<p>TO BE WORKED ON</p>
