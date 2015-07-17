@@ -29,3 +29,12 @@ Made by donvoo and greySynapse.
     <p>:not()</p>
   </li>
 </ul>
+
+<h1>Staff Icons</h1>
+<ul>
+  <li><p>Brand Ambassador: </p></li>
+  <li><p>Host / Co-Host: </p></li>
+  <li><p>Manager: </p></li>
+  <li><p>Bouncer: </p></li>
+  <li><p>Resident DJ: </p></li>
+</ul>
