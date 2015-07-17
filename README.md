@@ -6,6 +6,9 @@ Made by donvoo and greySynapse.
   <li>
     Cool stuff.
   </li>
+  <li>
+    Custom Rank Icons for: RDJ, Bouncer, Manager, CoHost, Host, BA.
+  </li>
 </ul>
 
 <h1>Cool CSS Tricks</h1>
