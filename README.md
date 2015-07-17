@@ -1,5 +1,5 @@
 <h1>RCS Additions To Room</h1>
-<p>Made by <a href="https://github.com/donvoo" target="_blank">donvoo</a> and <a href="https://github.com/greySynapse" target="_blank">greySynapse</a>.</p>
+<blockquote><p>Made by <a href="https://github.com/donvoo" target="_blank">donvoo</a> and <a href="https://github.com/greySynapse" target="_blank">greySynapse</a>.</p></blockquote>
 
 <h1>List of Things To Add</h1>
 <ul>
