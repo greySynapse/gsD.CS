@@ -3,24 +3,12 @@
 
 <h1>List of Things To Add</h1>
 <ul>
-  <li>
-    Cool stuff.
-  </li>
-  <li>
-    Custom Rank Icons for: RDJ, Bouncer, Manager, CoHost, Host, BA.
-  </li>
-  <li>
-    Transparent Footer And Chat
-  </li>
-  <li>
-    Footer Bar Be Black
-  </li>
-  <li>
-    Staff Colors
-  </li>
-  <li>
-    New Emotes
-  </li>
+  <li>Custom Rank Icons for: RDJ, Bouncer, Manager, CoHost, Host, BA.</li>
+  <li>Transparent Footer And Chat</li>
+  <li>Footer Bar Be Black</li>
+  <li>Staff Colors</li>
+  <li>New Emotes</li>
+  <li>Get Everyone's ID And Put In badgeFramework.css</li>
 </ul>
 
 <h1>Staff Icons<br><img src="http://i.imgur.com/2usriBq.png"/></h1>
