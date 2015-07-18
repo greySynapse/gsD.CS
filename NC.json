@@ -26,7 +26,7 @@
     },
     "images": {
         "background":           "https://i.imgur.com/8MyVHBu.jpg",
-        "playback":             "http://31.media.tumblr.com/881374af3268f41b3788cd83239953d9/tumblr_inline_nil0qvUm2Z1rs71sz.gif",
+        "playback":             null,
         "admin":                "http://i.imgur.com/jAhVtVF.png",
         "ambassador":           "http://i.imgur.com/HWucg1I.png",
         "host":                 "http://i.imgur.com/U8pQ7xd.png",
