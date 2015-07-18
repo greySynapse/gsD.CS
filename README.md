@@ -23,19 +23,6 @@
   </li>
 </ul>
 
-<h1>Cool CSS Tricks</h1>
-<ul>
-  <li>
-    <p>input:checked</p>
-  </li>
-  <li>
-    <p>http://www.w3schools.com/css/css_pseudo_elements.asp</p>
-  </li>
-  <li>
-    <p>:not()</p>
-  </li>
-</ul>
-
 <h1>Staff Icons<br><img src="http://i.imgur.com/2usriBq.png"/></h1>
 <ul>
   <li><p>Admin: <img src="http://i.imgur.com/jAhVtVF.png"/></p></li>
@@ -59,4 +46,17 @@
 <h1>List of Emotes</h1>
 <ul>
   <li><a href="http://i.imgur.com/jleilmo.gif" target="_blank">:firelenny:</a></li>
+</ul>
+
+<h1>Cool CSS Tricks</h1>
+<ul>
+  <li>
+    <p>input:checked</p>
+  </li>
+  <li>
+    <p>http://www.w3schools.com/css/css_pseudo_elements.asp</p>
+  </li>
+  <li>
+    <p>:not()</p>
+  </li>
 </ul>
