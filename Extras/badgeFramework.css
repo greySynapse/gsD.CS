@@ -214,6 +214,11 @@
 	background: url('') no-repeat center;
 }
 
+/* DJ_Despair */
+[data-cid^="PLSADD-"] .bdg.g {
+	background: url('') no-repeat center;
+}
+
 /* Duckling's Grandson */
 [data-cid^="PLSADD-"] .bdg.g {
 	background: url('') no-repeat center;
