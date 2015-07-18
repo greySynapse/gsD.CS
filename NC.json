@@ -1,7 +1,7 @@
 {
     "room":                     "Nightcore 331",
     "author":                   "donvoo & greySynapse",
-    "css":                      null,
+    "css":                      "https://cdn.rawgit.com/donvoo/NC.RCS/master/NC.css",
     "rules": {
         "allowAutorespond":     true,
         "allowAutowoot":        true,
