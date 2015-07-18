@@ -48,12 +48,12 @@
 
 <h1>Staff Colors</h1>
 <ul>
-  <li><p>Admin: <img src="http://i.imgur.com/kx1Xdq2.png"/></p></li>
-  <li><p>Brand Ambassador: <img src="http://i.imgur.com/kx1Xdq2.png"/></p></li>
-  <li><p>Host / Co-Host: <img src="http://i.imgur.com/kx1Xdq2.png"/></p></li>
-  <li><p>Manager: <img src="http://i.imgur.com/kx1Xdq2.png"/></p></li>
-  <li><p>Bouncer: <img src="http://i.imgur.com/kx1Xdq2.png"/></p></li>
-  <li><p>Resident DJ: <img src="http://i.imgur.com/kx1Xdq2.png"/></p></li>
+  <li><p>Admin: <img src="http://i.imgur.com/1Hj1H1S.png"/></p></li>
+  <li><p>Brand Ambassador: <img src="http://i.imgur.com/1Hj1H1S.png"/></p></li>
+  <li><p>Host / Co-Host: <img src="http://i.imgur.com/1Hj1H1S.png"/></p></li>
+  <li><p>Manager: <img src="http://i.imgur.com/1Hj1H1S.png"/></p></li>
+  <li><p>Bouncer: <img src="http://i.imgur.com/1Hj1H1S.png"/></p></li>
+  <li><p>Resident DJ: <img src="http://i.imgur.com/1Hj1H1S.png"/></p></li>
 </ul>
 
 <h1>List of Emotes</h1>
