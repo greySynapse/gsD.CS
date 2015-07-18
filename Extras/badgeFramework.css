@@ -184,6 +184,11 @@
 	background: url('') no-repeat center;
 }
 
+/* Allocated */
+[data-cid^="PLSADD-"] .bdg.g {
+	background: url('') no-repeat center;
+}
+
 /* BlaZe Poi Senpai */
 [data-cid^="5429757-"] .bdg.g {
 	background: url('') no-repeat center;
@@ -201,6 +206,11 @@
 
 /* Darklight356 */
 [data-cid^="6582089-"] .bdg.g {
+	background: url('') no-repeat center;
+}
+
+/* DJ_Alex_dude */
+[data-cid^="PLSADD-"] .bdg.g {
 	background: url('') no-repeat center;
 }
 
@@ -239,27 +249,7 @@
 	background: url('') no-repeat center;
 }
 
-/* Momo */
-[data-cid^="PLSADD-"] .bdg.g {
-	background: url('') no-repeat center;
-}
-
-/* NeatlySpeed */
-[data-cid^="PLSADD-"] .bdg.g {
-	background: url('') no-repeat center;
-}
-
 /* NightcoreOP */
-[data-cid^="PLSADD-"] .bdg.g {
-	background: url('') no-repeat center;
-}
-
-/* NightcorexAnime */
-[data-cid^="PLSADD-"] .bdg.g {
-	background: url('') no-repeat center;
-}
-
-/* Pixelopate */
 [data-cid^="PLSADD-"] .bdg.g {
 	background: url('') no-repeat center;
 }
