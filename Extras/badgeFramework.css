@@ -189,11 +189,6 @@
 	background: url('') no-repeat center;
 }
 
-/* Allocated */
-[data-cid^="PLSADD-"] .bdg.g {
-	background: url('') no-repeat center;
-}
-
 /* Asiansweg */
 [data-cid^="5520544-"] .bdg.g {
 	background: url('') no-repeat center;
@@ -246,6 +241,11 @@
 
 /* FluffyCloudBunny */
 [data-cid^="5005413-"] .bdg.g {
+	background: url('') no-repeat center;
+}
+
+/* Hiragi Shinoa / Allocated */
+[data-cid^="4444591-"] .bdg.g {
 	background: url('') no-repeat center;
 }
 
