@@ -15,11 +15,11 @@
     "ccc": {
         "admin":                "#1abc9c",
         "ambassador":           "#2ecc71",
-        "host":                 "#505db9",
-        "cohost":               "#435fad",
-        "manager":              "#3761a3",
-        "bouncer":              "#296396",
-        "rdj":                  "#1f658e",
+        "host":                 "#4e4ebc",
+        "cohost":               "#4d68c8",
+        "manager":              "#4b85d1",
+        "bouncer":              "#4182bc",
+        "rdj":                  "#356b95",
         "subscriber":           null,
         "friend":               null,
         "user":                 null
