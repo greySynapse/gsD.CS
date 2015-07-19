@@ -30,7 +30,7 @@
   <li><p>Bouncer: <img src="http://i.imgur.com/1Hj1H1S.png"/></p></li>
   <li><p>Resident DJ: <img src="http://i.imgur.com/1Hj1H1S.png"/></p></li>
 </ul>
-<img src="http://i.imgur.com/H2i3yZK.png"/>
+<img src="http://i.imgur.com/3kIJE0N.png"/>
 
 <h1>List of Emotes</h1>
 <ul>
