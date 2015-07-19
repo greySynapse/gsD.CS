@@ -6,7 +6,6 @@
   <li>Custom Rank Icons for: RDJ, Bouncer, Manager, CoHost, Host, BA.</li>
   <li>Transparent Footer And Chat</li>
   <li>Footer Bar Be Black</li>
-  <li>Staff Colors</li>
   <li>New Emotes</li>
   <li>Get Everyone's ID And Put In badgeFramework.css</li>
 </ul>
