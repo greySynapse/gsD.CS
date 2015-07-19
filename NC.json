@@ -17,9 +17,9 @@
         "ambassador":           "#2ecc71",
         "host":                 "#923892",
         "cohost":               "#87449c",
-        "manager":              "#7a52a7",
-        "bouncer":              "#6569ba",
-        "rdj":                  "#5679c7",
+        "manager":              "#7854a9",
+        "bouncer":              "#626cbc",
+        "rdj":                  "#547bc9",
         "subscriber":           null,
         "friend":               null,
         "user":                 null
