@@ -23,12 +23,13 @@
 
 <h1>Staff Colors</h1>
 <ul>
-  <li><p>Admin: <img src="http://i.imgur.com/1Hj1H1S.png"/></p></li>
-  <li><p>Brand Ambassador: <img src="http://i.imgur.com/1Hj1H1S.png"/></p></li>
-  <li><p>Host / Co-Host: <img src="http://i.imgur.com/1Hj1H1S.png"/></p></li>
-  <li><p>Manager: <img src="http://i.imgur.com/1Hj1H1S.png"/></p></li>
-  <li><p>Bouncer: <img src="http://i.imgur.com/1Hj1H1S.png"/></p></li>
-  <li><p>Resident DJ: <img src="http://i.imgur.com/1Hj1H1S.png"/></p></li>
+  <li><p>Admin: <img src="http://i.imgur.com/XrIJvg3.png"/></p></li>
+  <li><p>Brand Ambassador: <img src="http://i.imgur.com/UlX7es1.png"/></p></li>
+  <li><p>Host: <img src="http://i.imgur.com/9CU0o62.png"/></p></li>
+  <li><p>Co-Host: <img src="http://i.imgur.com/wZEGPBX.png"/></p></li>
+  <li><p>Manager: <img src="http://i.imgur.com/QecUhbq.png"/></p></li>
+  <li><p>Bouncer: <img src="http://i.imgur.com/ma038OE.png"/></p></li>
+  <li><p>Resident DJ: <img src="http://i.imgur.com/CF6TOBE.png"/></p></li>
 </ul>
 <img src="http://i.imgur.com/3kIJE0N.png"/>
 
