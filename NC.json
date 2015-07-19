@@ -13,10 +13,10 @@
         "forceSmartVote":       false
     },
     "ccc": {
-        "admin":                "#1abc9c",
+        "admin":                "#1eb6e7",
         "ambassador":           "#2ecc71",
-        "host":                 "#17b55a",
-        "cohost":               "#1eb6e7",
+        "host":                 "#1bbc5f",
+        "cohost":               "#87449c",
         "manager":              "#7854a9",
         "bouncer":              "#626cbc",
         "rdj":                  "#547bc9",
