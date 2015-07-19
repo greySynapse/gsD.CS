@@ -22,6 +22,7 @@
 </ul>
 
 <h1>Staff Colors</h1>
+<img src="http://i.imgur.com/CF6TOBE.png"/><img src="http://i.imgur.com/ma038OE.png"/><img src="http://i.imgur.com/QecUhbq.png"/><img src="http://i.imgur.com/wZEGPBX.png"/><img src="http://i.imgur.com/9CU0o62.png"/><img src="http://i.imgur.com/UlX7es1.png"/><img src="http://i.imgur.com/XrIJvg3.png"/>
 <ul>
   <li><p>Admin: <img src="http://i.imgur.com/XrIJvg3.png"/></p></li>
   <li><p>Brand Ambassador: <img src="http://i.imgur.com/UlX7es1.png"/></p></li>
