@@ -54,11 +54,6 @@
 [data-cid^="4105479-"] .bdg.g {
 	background: url('') no-repeat center;
 }
- 
-/* Umcookies2.0 */
-[data-cid^="5055573-"] .bdg.g {
-	background: url('') no-repeat center;
-}
 
 /*Bouncers*/
  
@@ -185,7 +180,7 @@
 }
 
 /* 23Pies */
-[data-cid^="PLSADD-"] .bdg.g {
+[data-cid^="3465196-"] .bdg.g {
 	background: url('') no-repeat center;
 }
 
@@ -316,5 +311,22 @@
 
 /* 보라 & 다솜 */
 [data-cid^="PLSADD-"] .bdg.g {
+	background: url('') no-repeat center;
+}
+
+/* Bots */
+
+/* FluffyBot */
+[data-cid^="6330635-"] .bdg.g {
+	background: url('') no-repeat center;
+}
+
+/* Thermai */
+[data-cid^="5351647-"] .bdg.g {
+	background: url('') no-repeat center;
+}
+
+/* Umcookies2.0 */
+[data-cid^="5055573-"] .bdg.g {
 	background: url('') no-repeat center;
 }
