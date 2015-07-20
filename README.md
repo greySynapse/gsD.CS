@@ -14,7 +14,7 @@
 <ul>
   <li><p>Admin: <img src="http://i.imgur.com/jAhVtVF.png"/></p></li>
   <li><p>Brand Ambassador: <img src="http://i.imgur.com/HWucg1I.png"/></p></li>
-  <li><p>Host / Co-Host: <img src="http://i.imgur.com/U8pQ7xd.png"/></p></li>
+  <li><p>Host / Co-Host: <img src="http://i.imgur.com/2HztU2h.png"/></p></li>
   <li><p>Manager: <img src="http://i.imgur.com/bebMb8k.png"/></p></li>
   <li><p>Bouncer: <img src="http://i.imgur.com/jA7CGAX.png"/></p></li>
   <li><p>Resident DJ: <img src="http://i.imgur.com/s5slyP7.png"/></p></li>
