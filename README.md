@@ -17,7 +17,7 @@
   <li><p>Host / Co-Host: <img src="http://i.imgur.com/U8pQ7xd.png"/></p></li>
   <li><p>Manager: <img src="http://i.imgur.com/oHkfEu4.png"/></p></li>
   <li><p>Bouncer: <img src="http://i.imgur.com/wLMWUcF.png"/></p></li>
-  <li><p>Resident DJ: <img src="http://i.imgur.com/OeBE8mp.png"/></p></li>
+  <li><p>Resident DJ: <img src="http://i.imgur.com/s5slyP7.png"/></p></li>
 </ul>
 
 <h1>Staff Colors</h1>
