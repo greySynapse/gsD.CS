@@ -1,7 +1,7 @@
 {
     "room":                     "Community",
     "author":                   "donvoo & greySynapse",
-    "css":                      "https://rawgit.com/donvoo/nc/master/gsDo.css",
+    "css":                      "https://rawgit.com/donvoo/nc/master/gsD.css",
     "rules": {
         "allowAutorespond":     true,
         "allowAutowoot":        true,
