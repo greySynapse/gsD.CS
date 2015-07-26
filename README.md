@@ -1,7 +1,7 @@
-<h1>RCS Additions To Room</h1>
+<h1>Styling Additions</h1>
 <blockquote><p>Made by <a href="https://github.com/donvoo" target="_blank">donvoo</a> and <a href="https://github.com/greySynapse" target="_blank">greySynapse</a>.</p></blockquote>
 
-<h1>List of Things To Add</h1>
+<h1>Future Updates!</h1>
 <ul>
   <li>Custom Rank Icons for: RDJ, Bouncer, Manager, CoHost, Host, BA.</li>
   <li>Transparent Footer And Chat</li>
