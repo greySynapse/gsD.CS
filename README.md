@@ -1,13 +1,12 @@
-<h1>Styling Additions</h1>
+<h1>Styling</h1>
 <blockquote><p>Made by <a href="https://github.com/donvoo" target="_blank">donvoo</a> and <a href="https://github.com/greySynapse" target="_blank">greySynapse</a>.</p></blockquote>
 
 <h1>Future Updates!</h1>
 <ul>
-  <li>Custom Rank Icons for: RDJ, Bouncer, Manager, CoHost, Host, BA.</li>
-  <li>Transparent Footer And Chat</li>
-  <li>Footer Bar Be Black</li>
-  <li>New Emotes</li>
-  <li>Get Everyone's ID And Put In badgeFramework.css</li>
+  <li>Name Stylings.</li>
+  <li>Custom Badges.</li>
+  <li>New Emotes.</li>
+  <li>Updates Based on Feedback & Suggestions.</li>
 </ul>
 
 <h1>Staff Icons<br><img src="http://i.imgur.com/faP69xE.png"/></h1>
