@@ -2,94 +2,385 @@
 /*  By donvoo & greySynapse */
 
 /*  
-	Entire Changelist
-    	- STATICS
-	    	- COLOR
-	    		- Footer Background [colorBlack]
-	    	- TRANSPARENCY
-	    		- Playlist Panel [0.95]
-	    		- Woot, Meh, Grab [0.6]
-	    		- DJ [0.6]
-    	- ANIMATIONS
-	    	- OPACITY
-	    		- Inventory, Badge, Store, Profile, Settings [hover0.5, buttonHover1.0]
-	    		- Woot, Meh, Grab [hover0.6, buttonHover1.0]
-	    		- DJ [hover1.0]
-	    	- FULL SPIN
-	    		- History Icon [hover]
-	    		- Settings Icon [hover]
-	    	- PARTIAL SPIN
-	    		- Facebook Logo [hover]
-	    		- Twitter Logo [hover]
-	    		- Shop Icon [hover]
-	    	- FADEIN
-	    		- Facebook Menu [hover]
-    			- Twitter Menu [hover]
+    Entire Changelist
+
+        - STATICS
+                 - COLOR
+                 - Footer Elements [colorBlack]
+            - TRANSPARENCY
+                - Playlist Panel [0.95]
+                - Woot, Meh, Grab [0.6]
+                - DJ [0.6]
+        - ANIMATIONS
+            - OPACITY
+                - Inventory, Badge, Store, Profile, Settings [hover0.5, buttonHover1.0]
+                - Woot, Meh, Grab [hover0.6, buttonHover1.0]
+                - DJ [hover1.0]
+                - User Rollover [hover0.3, buttonHover1.0]
+            - FULL SPIN
+                - History Icon [hover]
+                - Settings Icon [hover]
+            - PARTIAL SPIN
+                - Facebook Logo [hover]
+                - Twitter Logo [hover]
+                - Shop Icon [hover]
+            - SHAKE
+                - RCS Skip [hover]
+            - FADEIN
+                - Facebook Menu [hover]
+                - Twitter Menu [hover]
+                - Chat Messages
 */
 
-/*********/
-/*STATICS*/
-/*********/
-
-#footer 
-{
-    background:         	rgba(0, 0, 0, 1);
-}
-
-#playlist-panel
-{
-    opacity: 			0.95;
-}
+/********/
+/*TITLES*/
+/********/
 
 /************/
-/*ANIMATIONS*/
+/*DIALOG BOX*/
 /************/
 
-/*** HEADER ANIMATIONS ***/
+/* Quit DJing Dialogue Box */
+#dialog-confirm
+{
+        background:             rgba(0, 0, 0, 1) !important;
+}
+
+#dialog-body
+{
+        background:             rgba(49, 49, 49, 1) !important;
+}
+
+#dialog-confirm
+{
+        opacity:                0.85;
+}
+
+#dialog-confirm > .dialog-body,
+#dialog-confirm > .dialog-frame
+{
+        opacity:                0.85;
+}
+
+#dialog-confirm .dialog-frame:hover
+{
+        opacity:                0:85;
+}
+
+#dialog-confirm .submit, 
+#dialog-confirm .cancel
+{
+        background:             rgba(0, 0, 0, 1);
+        color:                  rgba(128, 134, 145, 1);
+        -webkit-transition:     all 0.3s linear;
+        -moz-transition:        all 0.3s linear;
+        -o-transition:          all 0.3s linear;
+        transition:             all 0.3s linear;
+}
+
+#dialog-confirm .submit:hover
+{
+        color:                  rgba(255, 255, 255, 1);
+        -webkit-box-shadow:     inset 0 -8px 0 0 rgba(244, 107, 64, 1) !important;
+        -moz-box-shadow:        inset 0 -8px 0 0 rgba(244, 107, 64, 1) !important;
+        -o-box-shadow:          inset 0 -8px 0 0 rgba(244, 107, 64, 1) !important;
+        box-shadow:             inset 0 -8px 0 0 rgba(244, 107, 64, 1) !important;  
+}
+
+#dialog-confirm .cancel:hover
+{
+        color:                  rgba(255, 255, 255, 1);
+        -webkit-box-shadow:     inset 0 -8px 0 0 rgba(146, 90, 255, 1) !important;
+        -moz-box-shadow:        inset 0 -8px 0 0 rgba(146, 90, 255, 1) !important;
+        -o-box-shadow:          inset 0 -8px 0 0 rgba(146, 90, 255, 1) !important;
+        box-shadow:             inset 0 -8px 0 0 rgba(146, 90, 255, 1) !important;  
+}
+
+/* Editing Media Dialog Box [Playlist] */
+#dialog-media-update
+{
+        background:             rgba(0, 0, 0, 1) !important;
+}
+
+#dialog-media-update .dialog-body
+{
+        background:             rgba(49, 49, 49, 1) !important;
+}
+
+#dialog-media-update
+{
+        opacity:                0.85;
+}
+
+#dialog-media-update > .dialog-body,
+#dialog-media-update > .dialog-frame
+{
+        opacity:                0.85;
+}
+
+#dialog-confirm .dialog-frame:hover
+{
+        opacity:                1;
+}
+
+#dialog-media-update .dialog-frame .button.submit, 
+#dialog-media-update .dialog-frame .button.cancel
+{
+        background:             rgba(0, 0, 0, 1);
+        color:                  rgba(128, 134, 145, 1);
+        -webkit-transition:     all 0.3s linear;
+        -moz-transition:        all 0.3s linear;
+        -o-transition:          all 0.3s linear;
+        transition:             all 0.3s linear;
+}
+
+#dialog-media-update .dialog-frame .button.submit:hover
+{
+        color:                  rgba(255, 255, 255, 1);
+        -webkit-box-shadow:     inset 0 -8px 0 0 rgba(244, 107, 64, 1) !important;
+        -moz-box-shadow:        inset 0 -8px 0 0 rgba(244, 107, 64, 1) !important;
+        -o-box-shadow:          inset 0 -8px 0 0 rgba(244, 107, 64, 1) !important;
+        box-shadow:             inset 0 -8px 0 0 rgba(244, 107, 64, 1) !important;  
+}
+
+#dialog-media-update .dialog-frame .button.cancel:hover
+{
+        color:                  rgba(255, 255, 255, 1);
+        -webkit-box-shadow:     inset 0 -8px 0 0 rgba(146, 90, 255, 1) !important;
+        -moz-box-shadow:        inset 0 -8px 0 0 rgba(146, 90, 255, 1) !important;
+        -o-box-shadow:          inset 0 -8px 0 0 rgba(146, 90, 255, 1) !important;
+        box-shadow:             inset 0 -8px 0 0 rgba(146, 90, 255, 1) !important;  
+}
+
+/********/
+/*HEADER*/
+/********/
+
+/* Room History & RCS Skip Button */
+#history-button,
+#rs-skip-button
+{
+        background:             rgba(0, 0, 0, 1) !important;
+}
+
+#rs-skip-button, 
+#history-button
+{
+        -webkit-transition:     all 0.3s linear;
+        -moz-transition:        all 0.3s linear;
+        -o-transition:          all 0.3s linear;
+        transition:             all 0.3s linear;
+}
+
+#rs-skip-button:hover
+{
+        background:             rgba(50, 35, 76, 0.95) !important;
+    /* FLICKER ISSUES
+        -webkit-box-shadow:     inset 0 5px 0 0 rgba(146, 90, 255, 1) !important;
+        -moz-box-shadow:        inset 0 5px 0 0 rgba(146, 90, 255, 1) !important;
+        -o-box-shadow:          inset 0 5px 0 0 rgba(146, 90, 255, 1) !important;
+        box-shadow:             inset 0 5px 0 0 rgba(146, 90, 255, 1) !important; */
+}
+
+#history-button:hover
+{
+        background:             rgba(50, 60, 105, 0.95) !important;
+    /* FLICKER ISSUES
+        -webkit-box-shadow:     inset 0 5px 0 0 rgba(0, 156, 221, 1) !important;
+        -moz-box-shadow:        inset 0 5px 0 0 rgba(0, 156, 221, 1) !important;
+        -o-box-shadow:          inset 0 5px 0 0 rgba(0, 156, 221, 1) !important;
+        box-shadow:             inset 0 5px 0 0 rgba(0, 156, 221, 1) !important; */
+}
+
+#rs-skip-button .icon-skip:hover 
+{
+        -webkit-animation:      shift .80s ease-in-out !important;
+        -moz-animation:         shift .80s ease-in-out !important;
+        -o-animation:           shift .80s ease-in-out !important;
+        animation:              shift .80s ease-in-out !important;
+}
+
+/* Plug Logo Menu */
+#app-menu .button, 
+#app-menu .list
+{
+        background:             rgba(0, 0, 0, 1) !important;
+}
+
+#app-menu .button, 
+#app-menu .item, 
+#app-menu .logout
+{
+        -webkit-transition:     all 0.3s linear;
+        -moz-transition:        all 0.3s linear;
+        -o-transition:          all 0.3s linear;
+        transition:             all 0.3s linear;
+}
+
+#app-menu .button:hover
+{
+        /* Set to +5 and not -5 because -5 does not appear */
+        -webkit-box-shadow:     inset 0 5px 0 0 rgba(0, 156, 221, 1) !important;
+        -moz-box-shadow:        inset 0 5px 0 0 rgba(0, 156, 221, 1) !important;
+        -o-box-shadow:          inset 0 5px 0 0 rgba(0, 156, 221, 1) !important;
+        box-shadow:             inset 0 5px 0 0 rgba(0, 156, 221, 1) !important;
+}
+
+#app-menu .list a
+{
+        background:             rgba(0, 0, 0, 0) !important;
+}
+
+#app-menu .list:hover > .community,
+#app-menu .list:hover > a:nth-child(2) > .events,
+#app-menu .list:hover > a:nth-child(3) > .support,
+#app-menu .list:hover > a:nth-child(4) > .blog,
+#app-menu .list:hover > a:nth-child(5) > .about,
+#app-menu .list:hover > a:nth-child(6) > .api, 
+#app-menu .list:hover > a:nth-child(7) > .terms,
+#app-menu .list:hover > a:nth-child(8) > .privacy,
+#app-menu .list:hover > .logout
+
+{
+        opacity:                0.3;
+    
+}
+
+#app-menu .list .community:hover,
+#app-menu .list a:nth-child(2) > .events:hover,
+#app-menu .list a:nth-child(3) > .support:hover,
+#app-menu .list a:nth-child(4) > .blog:hover,
+#app-menu .list a:nth-child(5) > .about:hover,
+#app-menu .list a:nth-child(6) > .api:hover, 
+#app-menu .list a:nth-child(7) > .terms:hover,
+#app-menu .list a:nth-child(8) > .privacy:hover
+{
+        opacity:                1 !important;
+}
+
+/* Plug Logo Menu Cont. */
+#app-menu:hover > .list .logout
+{
+        opacity:        0.5 !important;
+}
+
+#app-menu .list .logout:hover
+{
+        opacity:        1 !important;
+}
+
+#app-menu .community,
+#app-menu .events, 
+#app-menu .support, 
+#app-menu .blog, 
+#app-menu .about, 
+#app-menu .api, 
+#app-menu .terms, 
+#app-menu .privacy
+{
+        opacity:                0.8;
+}
+
+#app-menu
+{
+        opacity:                0.95;
+}
+
+/* Room Meta (From Community Name to History Button) */
+#room-meta
+{
+        background:     rgba(0, 0, 0, 1) !important;
+}
+
+/* Chat Header */
+#chat-header
+{
+        background:             rgba(0, 0, 0, 1) !important;
+}
+
+#chat-header #chat-sound-button,
+#chat-header #chat-emoji-button,
+#chat-header #chat-timestamp-button,
+#chat-header #chat-popout-button,
+#chat-header #chat-mentions-button,
+#chat-header #rcs-clearchat
+{
+        opacity:                1;
+
+        -webkit-transition:     all 0.25s linear;
+        -moz-transition:        all 0.25s linear;
+        -o-transition:          all 0.25s linear;
+        transition:             all 0.25s linear; 
+}
+
+
+#chat-header:hover > #chat-sound-button,
+#chat-header:hover > #chat-emoji-button,
+#chat-header:hover > #chat-timestamp-button,
+#chat-header:hover > #chat-popout-button,
+#chat-header:hover > #chat-mentions-button,
+#chat-header:hover > #rcs-clearchat
+{
+        opacity:                0.5;
+}
+
+#chat-header #chat-sound-button:hover,
+#chat-header #chat-emoji-button:hover,
+#chat-header #chat-timestamp-button:hover,
+#chat-header #chat-popout-button:hover,
+#chat-header #chat-mentions-button:hover,
+#chat-header #rcs-clearchat:hover
+{
+        opacity:                1;
+}
+
+/********/
+/*FOOTER*/
+/********/
+
 /*** FOOTER ANIMATIONS ***/
 #footer-user .info
 {
-	background-color: 	rgba(0, 0, 0, 1);
-	
-	-moz-animation: 	fadein 0.34s;
-    	-webkit-animation: 	fadein 0.34s;
-	-o-animation: 		fadein 0.34s;
-	animation:		fadein 0.34s;
+        background-color:       rgba(0, 0, 0, 1);
+        
+        -moz-animation:         fadein 0.34s;
+        -webkit-animation:      fadein 0.34s;
+        -o-animation:           fadein 0.34s;
+        animation:              fadein 0.34s;
 }
 
 /* Social Media Icon Animations */
 #facebook-menu .menu, #twitter-menu .menu
 {
-	-moz-animation: 	fadein 0.38s;
-    	-webkit-animation: 	fadein 0.38s;
-	-o-animation: 		fadein 0.38s;
-	animation:		fadein 0.38s;
+        -moz-animation:         fadein 0.38s;
+        -webkit-animation:      fadein 0.38s;
+        -o-animation:           fadein 0.38s;
+        animation:              fadein 0.38s;
 }
 
 /* History & Settings Icon Spin Animations */
-#history-button .icon, #footer-user .buttons .button.settings .icon
+#history-button .icon, 
+#footer-user .buttons .button.settings .icon
 {
- 	-moz-transition: 	transform 1s ease-in-out;
-    	-webkit-transition: 	transform 1s ease-in-out;
- 	-o-transition: 		transform 1s ease-in-out;
- 	transition: 		transform 1s ease-in-out;
+        -moz-transition:        transform 1s ease-in-out;
+        -webkit-transition:     transform 1s ease-in-out;
+        -o-transition:          transform 1s ease-in-out;
+        transition:             transform 1s ease-in-out;
 }
 
-#history-button .icon:hover, #footer-user .buttons .button.settings .icon:hover
+#history-button .icon:hover, 
+#footer-user .buttons .button.settings .icon:hover
 {
-	-moz-transform: 	rotate(360deg); 
-	-webkit-transform: 	rotate(360deg);
-        -o-transform		rotate(360deg);
-        transform: 		rotate(360deg);
+        -moz-transform:         rotate(360deg) !important; 
+        -webkit-transform:      rotate(360deg) !important;
+        -o-transform            rotate(360deg) !important;
+        transform:              rotate(360deg) !important;
 }
 
-/* RCS Skip Button*/
-#rs-skip-button .icon-skip:hover 
+/* Footer Bar */
+#footer 
 {
-	-webkit-animation: 	shift .80s ease-in-out;
-    	-moz-animation: 	shift .80s ease-in-out;
-	-o-animation: 		shift .80s ease-in-out;
-	animation: 		shift .80s ease-in-out;
+        background:             rgba(0, 0, 0, 1);
 }
 
 /* Footer Buttons Static */
@@ -99,21 +390,21 @@
 #footer-user .profile,
 #footer-user .settings
 {
-	background: 		rgba(0, 0, 0, 1) !important;
-	
-	-webkit-transition: 	all 0.3s linear;
-	-moz-transition: 	all 0.3s linear;
-	-o-transition: 		all 0.3s linear;
-	transition: 		all 0.3s linear;
+        background:             rgba(0, 0, 0, 1) !important;
+        
+        -webkit-transition:     all 0.3s linear;
+        -moz-transition:        all 0.3s linear;
+        -o-transition:          all 0.3s linear;
+        transition:             all 0.3s linear;
 }
 
 /* Footer Button Animations */
 #footer-user
 {
-	-webkit-transition: 	all 0.3s ease;
-	-moz-transition: 	all 0.3s ease;
-	-o-transition: 		all 0.3s ease;
-	transition: 		all 0.3s ease;
+        -webkit-transition:     all 0.3s ease;
+        -moz-transition:        all 0.3s ease;
+        -o-transition:          all 0.3s ease;
+        transition:             all 0.3s ease;
 }
 .buttons:hover > .inventory, 
 .buttons:hover > .badge, 
@@ -121,7 +412,7 @@
 .buttons:hover > .profile, 
 .buttons:hover > .settings
 {
- 	opacity: 		0.5;
+        opacity:                0.5;
 }
 #footer-user .inventory:hover, 
 #footer-user .badge:hover, 
@@ -129,106 +420,107 @@
 #footer-user .profile:hover, 
 #footer-user .settings:hover
 {
- 	opacity: 		1;
+        opacity:                1;
 }
 
 #footer-user .inventory:hover
 {
-	-webkit-box-shadow:	inset 0 -5px 0 0 rgba(146, 56, 146, 1) !important;
-	-moz-box-shadow:	inset 0 -5px 0 0 rgba(146, 56, 146, 1) !important;
-	-o-box-shadow:		inset 0 -5px 0 0 rgba(146, 56, 146, 1) !important;
-	box-shadow:		inset 0 -5px 0 0 rgba(146, 56, 146, 1) !important;
+        -webkit-box-shadow:     inset 0 -5px 0 0 rgba(146, 56, 146, 1) !important;
+        -moz-box-shadow:        inset 0 -5px 0 0 rgba(146, 56, 146, 1) !important;
+        -o-box-shadow:          inset 0 -5px 0 0 rgba(146, 56, 146, 1) !important;
+        box-shadow:             inset 0 -5px 0 0 rgba(146, 56, 146, 1) !important;
 }
 #footer-user .badge:hover
 {
-	-webkit-box-shadow: 	inset 0 -5px 0 0 rgba(135, 68, 156, 1) !important;
-	-moz-box-shadow: 	inset 0 -5px 0 0 rgba(135, 68, 156, 1) !important;
-	-o-box-shadow: 		inset 0 -5px 0 0 rgba(135, 68, 156, 1) !important;
-	box-shadow: 		inset 0 -5px 0 0 rgba(135, 68, 156, 1) !important;
+        -webkit-box-shadow:     inset 0 -5px 0 0 rgba(135, 68, 156, 1) !important;
+        -moz-box-shadow:        inset 0 -5px 0 0 rgba(135, 68, 156, 1) !important;
+        -o-box-shadow:          inset 0 -5px 0 0 rgba(135, 68, 156, 1) !important;
+        box-shadow:             inset 0 -5px 0 0 rgba(135, 68, 156, 1) !important;
 }
 #footer-user .store:hover
 {
-	-webkit-box-shadow: 	inset 0 -5px 0 0 rgba(120, 84, 169, 1) !important;
-	-moz-box-shadow: 	inset 0 -5px 0 0 rgba(120, 84, 169, 1) !important;
-	-o-box-shadow: 		inset 0 -5px 0 0 rgba(120, 84, 169, 1) !important;
-	box-shadow: 		inset 0 -5px 0 0 rgba(120, 84, 169, 1) !important;
-	-webkit-animation: 	smallSpin .80s ease-in-out;
-	-moz-animation: 	smallSpin .80s ease-in-out;
-	-o-animation: 		smallSpin .80s ease-in-out;
-	animation: 		smallSpin .80s ease-in-out;
+        -webkit-box-shadow:     inset 0 -5px 0 0 rgba(120, 84, 169, 1) !important;
+        -moz-box-shadow:        inset 0 -5px 0 0 rgba(120, 84, 169, 1) !important;
+        -o-box-shadow:          inset 0 -5px 0 0 rgba(120, 84, 169, 1) !important;
+        box-shadow:             inset 0 -5px 0 0 rgba(120, 84, 169, 1) !important;
+        -webkit-animation:      smallSpin .80s ease-in-out;
+        -moz-animation:         smallSpin .80s ease-in-out;
+        -o-animation:           smallSpin .80s ease-in-out;
+        animation:              smallSpin .80s ease-in-out;
 }
 #footer-user .profile:hover
 {
-	-webkit-box-shadow: 	inset 0 -5px 0 0 rgba(98, 108, 188, 1) !important;
-	-moz-box-shadow: 	inset 0 -5px 0 0 rgba(98, 108, 188, 1) !important;
-	-o-box-shadow: 		inset 0 -5px 0 0 rgba(98, 108, 188, 1) !important;
-	box-shadow: 		inset 0 -5px 0 0 rgba(98, 108, 188, 1) !important;
+        -webkit-box-shadow:     inset 0 -5px 0 0 rgba(98, 108, 188, 1) !important;
+        -moz-box-shadow:        inset 0 -5px 0 0 rgba(98, 108, 188, 1) !important;
+        -o-box-shadow:          inset 0 -5px 0 0 rgba(98, 108, 188, 1) !important;
+        box-shadow:             inset 0 -5px 0 0 rgba(98, 108, 188, 1) !important;
 }
 #footer-user .settings:hover
 {
-	-webkit-box-shadow:	inset 0 -5px 0 0 rgba(84, 123, 201, 1) !important;
-	-moz-box-shadow:	inset 0 -5px 0 0 rgba(84, 123, 201, 1) !important;
-	-o-box-shadow:		inset 0 -5px 0 0 rgba(84, 123, 201, 1) !important;
-	box-shadow:		inset 0 -5px 0 0 rgba(84, 123, 201, 1) !important;
+        -webkit-box-shadow:     inset 0 -5px 0 0 rgba(84, 123, 201, 1) !important;
+        -moz-box-shadow:        inset 0 -5px 0 0 rgba(84, 123, 201, 1) !important;
+        -o-box-shadow:          inset 0 -5px 0 0 rgba(84, 123, 201, 1) !important;
+        box-shadow:             inset 0 -5px 0 0 rgba(84, 123, 201, 1) !important;
 }
 
 /* SOCIAL ICON FLIPS */
 .social-menu .icon:hover 
 {
-	-webkit-animation: 	bigSpin .80s ease-in-out;
-	-moz-animation: 	bigSpin .80s ease-in-out;
-	-o-animation: 		bigSpin .80s ease-in-out;
-	animation: 		bigSpin .80s ease-in-out;
+        -webkit-animation:      bigSpin .80s ease-in-out;
+        -moz-animation:         bigSpin .80s ease-in-out;
+        -o-animation:           bigSpin .80s ease-in-out;
+        animation:              bigSpin .80s ease-in-out;
 
 }
 
 /* WOOT GRAB MEH */
 #meh, #woot, #grab
 {
- 	opacity: 		0.6;
-  	-webkit-transition:  	all 0.3s ease;
-  	-moz-transition:  	all 0.3s ease;
-  	-o-transition:   	all 0.3s ease;
-  	transition:   		all 0.3s ease;
+        opacity:                0.6;
+        -webkit-transition:     all 0.3s ease;
+        -moz-transition:        all 0.3s ease;
+        -o-transition:          all 0.3s ease;
+        transition:             all 0.3s ease;
 }
 #vote:hover > #woot, 
 #vote:hover > #grab, 
 #vote:hover > #meh
 {
- 	opacity: 		0.75;
+        opacity:                0.75;
 }
 #vote #woot:hover, 
 #vote #grab:hover, 
 #vote #meh:hover
 {
- 	opacity: 		1;
+        opacity:                1;
 }
 
 /* DJ */
 #dj-button .left
 {
- 	background: 		rgba(40,44,53,1) !important;
+        background:             rgba(40,44,53,1) !important;
 }
 #dj-button
 {
- 	opacity: 		0.6;
-  	-webkit-transition:  	all 0.3s ease;
-  	-moz-transition:  	all 0.3s ease;
-  	-o-transition:   	all 0.3s ease;
-  	transition:   		all 0.3s ease;
+        opacity:                0.6;
+        -webkit-transition:     all 0.3s ease;
+        -moz-transition:        all 0.3s ease;
+        -o-transition:          all 0.3s ease;
+        transition:             all 0.3s ease;
 }
 #dj-button:hover
 {
- 	opacity: 		1;
- 	 -webkit-box-shadow: 	inset 0 -5px 0 0 rgba(84, 123, 201, 1) !important;
- 	-moz-box-shadow: 	inset 0 -5px 0 0 rgba(84, 123, 201, 1) !important;
- 	-o-box-shadow:  	inset 0 -5px 0 0 rgba(84, 123, 201, 1) !important;
- 	box-shadow:  		inset 0 -5px 0 0 rgba(84, 123, 201, 1) !important;
+        opacity:                1;
+        -webkit-box-shadow:     inset 0 -5px 0 0 rgba(84, 123, 201, 1) !important;
+        -moz-box-shadow:        inset 0 -5px 0 0 rgba(84, 123, 201, 1) !important;
+        -o-box-shadow:          inset 0 -5px 0 0 rgba(84, 123, 201, 1) !important;
+        box-shadow:             inset 0 -5px 0 0 rgba(84, 123, 201, 1) !important;
 }
 
 /* Chat Hover Box */
 #chat .emote,
 #chat .log, 
+#chat .mention,
 #chat .message, 
 #chat .moderation, 
 #chat .promo, 
@@ -236,13 +528,14 @@
 #chat .user-action,
 #chat .welcome
 {
-	-webkit-transition: 	all 0.25s linear;
-	-moz-transition: 	all 0.25s linear;
-	-o-transition: 		all 0.25s linear;
-	transition: 		all 0.25s linear;
+        -webkit-transition:     all 0.25s linear;
+        -moz-transition:        all 0.25s linear;
+        -o-transition:          all 0.25s linear;
+        transition:             all 0.25s linear;
 }
 #chat .emote:hover,
 #chat .log:hover, 
+#chat .mention:hover,
 #chat .message:hover, 
 #chat .moderation:hover, 
 #chat .promo:hover,
@@ -250,27 +543,43 @@
 #chat .user-action:hover, 
 #chat .welcome:hover
 {
-	-webkit-box-shadow: 	inset 0 0 0 2px rgba(84, 123, 201, 1) !important;
-	-moz-box-shadow: 	inset 0 0 0 2px rgba(84, 123, 201, 1) !important;
-	-o-box-shadow: 		inset 0 0 0 2px rgba(84, 123, 201, 1) !important;
-	box-shadow: 		inset 0 0 0 2px rgba(84, 123, 201, 1) !important;
+        -webkit-box-shadow:     inset 0 0 0 2px rgba(84, 123, 201, 1) !important;
+        -moz-box-shadow:        inset 0 0 0 2px rgba(84, 123, 201, 1) !important;
+        -o-box-shadow:          inset 0 0 0 2px rgba(84, 123, 201, 1) !important;
+        box-shadow:             inset 0 0 0 2px rgba(84, 123, 201, 1) !important;
 }
+/* Chat Message Fadein */
+#chat .emote:nth-child(n+1),
+#chat .log:nth-child(n+1),
+#chat .mention:nth-child(n+1), 
+#chat .message:nth-child(n+1),
+#chat .moderation:nth-child(n+1),
+#chat .skip:nth-child(n+1), 
+#chat .update:nth-child(n+1),
+#chat .user-action:nth-child(n+1),
+#chat .welcome:nth-child(n+1) 
+{ 
+        -webkit-animation:      fadein 0.35s; 
+        -moz-animation:         fadein 0.35s; 
+        -o-animation:           fadein 0.35s; 
+        animation:              fadein 0.35s; 
+} 
 
 /* User Rollover */
 #user-rollover
 {
-	opacity: 		0.95;
-	background: 		rgba(28, 28, 28, 1) !important;
+        opacity:                0.95;
+        background:             rgba(28, 28, 28, 1) !important;
 }
 
 #user-rollover .info
 {
-	background: 		rgba(49, 49, 49, 1) !important;
-	
-	-webkit-transition: 	all 0.3s linear;
-	-moz-transition: 	all 0.3s linear;
-	-o-transition: 		all 0.3s linear;
-	transition: 		all 0.3s linear;
+        background:             rgba(49, 49, 49, 1) !important;
+        
+        -webkit-transition:     all 0.3s linear;
+        -moz-transition:        all 0.3s linear;
+        -o-transition:          all 0.3s linear;
+        transition:             all 0.3s linear;
 }
 
 #user-rollover .meta,
@@ -284,16 +593,17 @@
 #user-rollover .actions .mod-staff,
 #user-rollover .actions .skip
 {
-	background:		rgba(0, 0, 0, 0) !important;
-	
-	-webkit-transition: 	all 0.3s linear;
-	-moz-transition: 	all 0.3s linear;
-	-o-transition: 		all 0.3s linear;
-	transition: 		all 0.3s linear;
+        background:             rgba(0, 0, 0, 0) !important;
+        
+        -webkit-transition:     all 0.3s linear;
+        -moz-transition:        all 0.3s linear;
+        -o-transition:          all 0.3s linear;
+        transition:             all 0.3s linear;
 }
 
+/* OPTIONAL
 #user-rollover:hover > .info,
-#user-rollover:hover > .meta,
+#user-rollover:hover > .meta, */
 #user-rollover:hover > .actions .friend,
 #user-rollover:hover > .actions .gift,
 #user-rollover:hover > .actions .ignore,
@@ -304,8 +614,8 @@
 #user-rollover:hover > .actions .mod-staff,
 #user-rollover:hover > .actions .skip
 {
-	/* IF FLICKER ISSUES ARE FIXED, RAISE TO 0.5 */
-	opacity: 		0.3 !important;
+    /* IF FLICKER ISSUES ARE FIXED, RAISE TO 0.5 */
+        opacity:                0.3 !important;
 }
 
 #user-rollover .actions .friend:hover,
@@ -318,25 +628,179 @@
 #user-rollover .actions .mod-staff:hover,
 #user-rollover .actions .skip:hover
 {
-	opacity: 		1 !important;
-	
-	/* FLICKER ISSUES !! Disabled until they are fixed.
-	-webkit-box-shadow:	inset 0 -3px 0 0 rgba(84, 123, 201, 1) !important;
-	-moz-box-shadow:	inset 0 -3px 0 0 rgba(84, 123, 201, 1) !important;
-	-o-box-shadow:		inset 0 -3px 0 0 rgba(84, 123, 201, 1) !important;
-	box-shadow:		inset 0 -3px 0 0 rgba(84, 123, 201, 1) !important; */
+        opacity:                1 !important;
+        
+        /* FLICKER ISSUES !! Disabled until they are fixed.
+        -webkit-box-shadow:     inset 0 -3px 0 0 rgba(84, 123, 201, 1) !important;
+        -moz-box-shadow:        inset 0 -3px 0 0 rgba(84, 123, 201, 1) !important;
+        -o-box-shadow:          inset 0 -3px 0 0 rgba(84, 123, 201, 1) !important;
+        box-shadow:             inset 0 -3px 0 0 rgba(84, 123, 201, 1) !important; */
 }
 
 #user-rollover .info:hover,
 #user-rollover .meta:hover
 {
-	opacity: 		1 !important;
+         opacity:               1 !important;
 }
 
+/**********/
+/*PLAYLIST*/
+/**********/
+#playlist-panel
+{
+        opacity:                0.9;
+}
 
-/***************************/
-/*PLAYLIST CODE PLACEHOLDER*/
-/***************************/
+#playlist-panel #search
+{
+        background:             rgba(0, 0, 0, 1) !important;
+}
+
+#playlist-button
+{
+        background:             rgba(0, 0, 0, 1) !important;
+        
+        -webkit-transition:     all 0.3s linear;
+        -moz-transition:        all 0.3s linear;
+        -o-transition:          all 0.3s linear;
+        transition:             all 0.3s linear;
+        
+        -webkit-box-shadow:     inset 0 0 0 0 rgba(146, 90, 255, 1);
+}
+
+#playlist-button:hover
+{
+        -webkit-box-shadow:     inset 0 -5px 0 0 rgba(146, 90, 255, 1) !important;
+        -moz-box-shadow:        inset 0 -5px 0 0 rgba(146, 90, 255, 1) !important;
+        -o-box-shadow:          inset 0 -5px 0 0 rgba(146, 90, 255, 1) !important;
+        box-shadow:             inset 0 -5px 0 0 rgba(146, 90, 255, 1) !important; 
+}
+
+#playlist-import, #playlist-create
+{
+        -webkit-transition:     all 0.3s linear;
+        -moz-transition:        all 0.3s linear;
+        -o-transition:          all 0.3s linear;
+        transition:             all 0.3s linear;
+}
+
+#playlist-import:hover
+{
+        background:             rgba(47, 52, 62, 1);
+        -webkit-box-shadow:     inset 0 -5px 0 0 rgba(146, 90, 255, 1) !important;
+        -moz-box-shadow:        inset 0 -5px 0 0 rgba(146, 90, 255, 1) !important;
+        -o-box-shadow:          inset 0 -5px 0 0 rgba(146, 90, 255, 1) !important;
+        box-shadow:             inset 0 -5px 0 0 rgba(146, 90, 255, 1) !important;
+}
+
+#playlist-create:hover
+{
+        background:             rgba(64, 70, 84, 1);
+        -webkit-box-shadow:     inset 0 -5px 0 0 rgba(0, 156, 221, 1) !important;
+        -moz-box-shadow:        inset 0 -5px 0 0 rgba(0, 156, 221, 1) !important;
+        -o-box-shadow:          inset 0 -5px 0 0 rgba(0, 156, 221, 1) !important;
+        box-shadow:             inset 0 -5px 0 0 rgba(0, 156, 221, 1) !important;
+}
+
+.menu .row 
+{
+        -webkit-transition:     all 0.3s linear;
+        -moz-transition:        all 0.3s linear;
+        -o-transition:          all 0.3s linear;
+        transition:             all 0.3s linear;
+}
+
+.menu .selected
+{
+        background:             rgba(50, 60, 105, 1) !important;
+}
+
+.menu .row:hover
+{
+        background:             rgba(50, 35, 76, 1) !important;
+}
+
+.menu .selected:hover
+{
+        background:             rgba(50, 35, 76, 1) !important;
+}
+
+#playlist-edit-button, 
+#playlist-shuffle-button, 
+#playlist-delete-button
+{
+    -webkit-transition: all 0.3s linear;
+    -moz-transition:    all 0.3s linear;
+    -o-transition:      all 0.3s linear;
+    transition:         all 0.3s linear;
+}
+
+#playlist-edit-button:hover
+{
+        background: rgba(85, 93, 112, 1);
+        -webkit-box-shadow:     inset 0 -5px 0 0 rgba(0, 168, 217, 1) !important;
+        -moz-box-shadow:        inset 0 -5px 0 0 rgba(0, 168, 217, 1) !important;
+        -o-box-shadow:          inset 0 -5px 0 0 rgba(0, 168, 217, 1) !important;
+        box-shadow:             inset 0 -5px 0 0 rgba(0, 168, 217, 1) !important;
+}
+
+#playlist-shuffle-button:hover
+{
+        background: rgba(68, 74, 89, 1);
+        -webkit-box-shadow:     inset 0 -5px 0 0 rgba(148, 94, 242, 1) !important;
+        -moz-box-shadow:        inset 0 -5px 0 0 rgba(148, 94, 242, 1) !important;
+        -o-box-shadow:          inset 0 -5px 0 0 rgba(148, 94, 242, 1) !important;
+        box-shadow:             inset 0 -5px 0 0 rgba(148, 94, 242, 1) !important;
+}
+
+#playlist-delete-button:hover
+{
+        background: rgba(49, 53, 65, 1);
+        -webkit-box-shadow:     inset 0 -5px 0 0 rgba(230, 84, 52, 1) !important;
+        -moz-box-shadow:        inset 0 -5px 0 0 rgba(230, 84, 52, 1) !important;
+        -o-box-shadow:          inset 0 -5px 0 0 rgba(230, 84, 52, 1) !important;
+        box-shadow:             inset 0 -5px 0 0 rgba(230, 84, 52, 1) !important;
+}
+
+#media-panel .jspPane .row, 
+#media-panel .jspPane .selected, 
+#media-panel .jspPane .row .actions
+{
+        -webkit-transition:     all 0.3s linear;
+        -moz-transition:        all 0.3s linear;
+        -o-transition:          all 0.3s linear;
+        transition:             all 0.3s linear;
+}
+#media-panel .jspPane .row:hover
+{
+        background:             rgba(50, 35, 76, 1) !important;
+}
+
+#media-panel .jspPane .selected
+{
+        background:             rgba(50, 60, 105, 1) !important;
+}
+
+#media-panel .jspPane .selected:hover
+{
+        background:             rgba(50, 35, 76, 1) !important;
+}
+
+#playlist-activate-button
+{
+        background:             rgba(50, 35, 76, 0) !important;
+        
+        -webkit-transition:     all 0.3s linear;
+        -moz-transition:        all 0.3s linear;
+        -o-transition:          all 0.3s linear;
+        transition:             all 0.3s linear;
+}
+
+#playlist-activate-button:hover
+{
+        /* Needs: Activate button to not have a hover effect. */
+        background:             rgba(50, 35, 76, 1) !important;
+}
 
 /*******************/
 /*ANIMATION BINDERS*/
@@ -345,109 +809,107 @@
 /* FADEIN */
 @-o-keyframes, @-moz-keyframes, @-webkit-keyframes, @keyframes fadein
 {
-	from {
-		opacity: 0;
-	}
-	to {
-		opacity: 1;
-	}
+        from {
+                opacity:        0;
+        }
+        to {
+                opacity:        1;
+        }
 }
 
-/* SOCIAL ICON FLIPS */
-/* Big tilt */
+/* Spins */
 @keyframes bigSpin
 {
-	0% {
-		-webkit-transform: rotate(0deg);
-		-moz-transform: rotate(0deg);
-		-o-transform: rotate(0deg);
-		transform: rotate(0deg);
-	}
-	
-	33% {
-		-webkit-transform: rotate(-20deg);
-		-moz-transform: rotate(-20deg);
-		-o-transform: rotate(-20deg);
-		transform: rotate(-20deg);
-	}
+    0% {
+        -webkit-transform: rotate(0deg);
+        -moz-transform: rotate(0deg);
+        -o-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    
+    33% {
+        -webkit-transform: rotate(-20deg);
+        -moz-transform: rotate(-20deg);
+        -o-transform: rotate(-20deg);
+        transform: rotate(-20deg);
+    }
 
-	66% {
-		-webkit-transform: rotate(20deg);
-		-moz-transform: rotate(20deg);
-		-o-transform: rotate(20deg);
-		transform: rotate(20deg);
-	}
-	
-	100% {
-		-webkit-transform: rotate(0deg);
-		-moz-transform: rotate(0deg);
-		-o-transform: rotate(0deg);
-		transform: rotate(0deg);
-	}
+    66% {
+        -webkit-transform: rotate(20deg);
+        -moz-transform: rotate(20deg);
+        -o-transform: rotate(20deg);
+        transform: rotate(20deg);
+    }
+    
+    100% {
+        -webkit-transform: rotate(0deg);
+        -moz-transform: rotate(0deg);
+        -o-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
 }
 
-/* Little Tilt */
 @keyframes smallSpin
 {
-	0% {
-		-webkit-transform: rotate(0deg);
-		-moz-transform: rotate(0deg);
-		-o-transform: rotate(0deg);
-		transform: rotate(0deg);
-	}
-	
-	33% {
-		-webkit-transform: rotate(-5deg);
-		-moz-transform: rotate(-5deg);
-		-o-transform: rotate(-5deg);
-		transform: rotate(-5deg);
-	}
+    0% {
+        -webkit-transform: rotate(0deg);
+        -moz-transform: rotate(0deg);
+        -o-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    
+    33% {
+        -webkit-transform: rotate(-5deg);
+        -moz-transform: rotate(-5deg);
+        -o-transform: rotate(-5deg);
+        transform: rotate(-5deg);
+    }
 
-	66% {
-		-webkit-transform: rotate(5deg);
-		-moz-transform: rotate(5deg);
-		-o-transform: rotate(5deg);
-		transform: rotate(5deg);
-	}
-	
-	100% {
-		-webkit-transform: rotate(0deg);
-		-moz-transform: rotate(0deg);
-		-o-transform: rotate(0deg);
-		transform: rotate(0deg);
-	}
+    66% {
+        -webkit-transform: rotate(5deg);
+        -moz-transform: rotate(5deg);
+        -o-transform: rotate(5deg);
+        transform: rotate(5deg);
+    }
+    
+    100% {
+        -webkit-transform: rotate(0deg);
+        -moz-transform: rotate(0deg);
+        -o-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
 }
 
 /* X Shift */
 @keyframes shift
 {
-	0% {
-		-webkit-transform: translateX(0px);
-		-moz-transform: translateX(0px);
-		-o-transform: translateX(0px);
-		transform: translateX(0px);
-	}
-	
-	33% {
-		-webkit-transform: translateX(3px);
-		-moz-transform: translateX(3px);
-		-o-transform: translateX(3px);
-		transform: translateX(3px);
-	}
+    0% {
+        -webkit-transform: translateX(0px);
+        -moz-transform: translateX(0px);
+        -o-transform: translateX(0px);
+        transform: translateX(0px);
+    }
+    
+    33% {
+        -webkit-transform: translateX(3px);
+        -moz-transform: translateX(3px);
+        -o-transform: translateX(3px);
+        transform: translateX(3px);
+    }
 
-	66% {
-		-webkit-transform: translateX(-1px);
-		-moz-transform: translateX(-1px);
-		-o-transform: translateX(-1px);
-		transform: translateX(-1px);
-	}
-	
-	100% {
-		-webkit-transform: translateX(0px);
-		-moz-transform: translateX(0px);
-		-o-transform: translateX(0px);
-		transform: translateX(0px);
-	}
+    66% {
+        -webkit-transform: translateX(-1px);
+        -moz-transform: translateX(-1px);
+        -o-transform: translateX(-1px);
+        transform: translateX(-1px);
+    }
+    
+    100% {
+        -webkit-transform: translateX(0px);
+        -moz-transform: translateX(0px);
+        -o-transform: translateX(0px);
+        transform: translateX(0px);
+    }
 }
 
 /********/
@@ -455,26 +917,57 @@
 /********/
 
 /* greySynapse */
-#chat-messages .id-4107431 .badge-box i.bdg { 
-	background-image: url('http://i.imgur.com/vrdQBxz.png'); 
-	background-size: cover; 
+#chat-messages .id-4107431 .badge-box i.bdg
+{ 
+        background-image:       url('http://i.imgur.com/orMchHz.png'); 
+        background-size:        cover; 
+}
+
+/* donvoo */
+#chat-messages .id-4537120 .badge-box i.bdg
+{ 
+        background-image:       url('http://i.imgur.com/kXLv94f.png'); 
+        background-size:        cover; 
+}
+
+/* Dakotah & Tyler*/
+#chat-messages .id-5858419 .badge-box i.bdg,
+#chat-messages .id-5059733 .badge-box i.bdg
+{ 
+        background-image:       url('http://i.imgur.com/TUpNzNx.png'); 
+        background-size:        cover; 
 }
 
 /******/
 /*TEST*/
 /******/
 
-/* NEW CHAT MESSAGE FADEIN */
-#chat .emote:nth-child(n+1), 
-#chat .mention:nth-child(n+1), 
-#chat .message:nth-child(n+1),
-#chat .moderation:nth-child(n+1),
-#chat .skip:nth-child(n+1), 
-#chat .update:nth-child(n+1), 
-#chat .welcome:nth-child(n+1) 
-{ 
-	-webkit-animation: 	fadein 0.45s; 
-	-moz-animation: 	fadein 0.45s; 
-	-o-animation: 		fadein 0.45s; 
-	animation: 		fadein 0.45s; 
+#dashboard 
+{
+    background: rgba(0, 0, 0, 1);
+}
+
+.searching, .favorites
+{
+        -webkit-transition:     all 0.3s linear;
+        -moz-transition:        all 0.3s linear;
+        -o-transition:          all 0.3s linear;
+        transition:             all 0.3s linear;
+}
+
+.tab-menu button:hover
+{
+        -webkit-box-shadow:     inset 0 -5px 0 0 rgba(40, 44, 53, 1) !important;
+        -moz-box-shadow:        inset 0 -5px 0 0 rgba(40, 44, 53, 1) !important;
+        -o-box-shadow:          inset 0 -5px 0 0 rgba(40, 44, 53, 1) !important;
+        box-shadow:             inset 0 -5px 0 0 rgba(40, 44, 53, 1) !important;
+}
+
+
+.tab-menu button:not(.selected):hover
+{
+        webkit-box-shadow:     inset 0 -5px 0 0 rgba(146, 90, 255, 1) !important;
+        -moz-box-shadow:        inset 0 -5px 0 0 rgba(146, 90, 255, 1) !important;
+        -o-box-shadow:          inset 0 -5px 0 0 rgba(146, 90, 255, 1) !important;
+        box-shadow:             inset 0 -5px 0 0 rgba(146, 90, 255, 1) !important;
 }
