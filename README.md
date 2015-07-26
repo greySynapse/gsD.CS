@@ -36,6 +36,7 @@
 <h1>List of Emotes</h1>
 <ul>
   <li><a href="http://i.imgur.com/jleilmo.gif" target="_blank">:firelenny:</a></li>
+  <li><a href="http://i.imgur.com/JMcr6ag.png" target="_blank">:gs_haert:</a></li>
 </ul>
 
 <h1>Cool CSS Tricks</h1>
