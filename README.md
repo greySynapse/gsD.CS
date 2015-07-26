@@ -36,7 +36,7 @@
 <h1>List of Emotes</h1>
 <ul>
   <li><a href="http://i.imgur.com/jleilmo.gif" target="_blank">:firelenny:</a></li>
-  <li><a href="http://i.imgur.com/JMcr6ag.png" target="_blank">:gs_haert:</a></li>
+  <li><a href="http://i.imgur.com/JMcr6ag.png" target="_blank">:gs_heart:</a></li>
 </ul>
 
 <h1>Cool CSS Tricks</h1>
@@ -52,4 +52,4 @@
   </li>
 </ul>
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nd/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">NC.RCS</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">donvoo & greySynapse</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/">Creative Commons Attribution-NoDerivatives 4.0 International License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nd/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">gsD,RCS</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/">Creative Commons Attribution-NoDerivatives 4.0 International License</a>.
