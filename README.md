@@ -10,14 +10,14 @@
   <li>Get Everyone's ID And Put In badgeFramework.css</li>
 </ul>
 
-<h1>Staff Icons<br><img src="http://i.imgur.com/2usriBq.png"/></h1>
+<h1>Staff Icons<br><img src="http://i.imgur.com/faP69xE.png"/></h1>
 <ul>
   <li><p>Admin: <img src="http://i.imgur.com/jAhVtVF.png"/></p></li>
   <li><p>Brand Ambassador: <img src="http://i.imgur.com/HWucg1I.png"/></p></li>
-  <li><p>Host / Co-Host: <img src="http://i.imgur.com/2HztU2h.png"/></p></li>
+  <li><p>Host / Co-Host: <img src="http://i.imgur.com/JOlqRg9.png"/></p></li>
   <li><p>Manager: <img src="http://i.imgur.com/bebMb8k.png"/></p></li>
   <li><p>Bouncer: <img src="http://i.imgur.com/jA7CGAX.png"/></p></li>
-  <li><p>Resident DJ: <img src="http://i.imgur.com/s5slyP7.png"/></p></li>
+  <li><p>Resident DJ: <img src="http://i.imgur.com/EBEFOAY.png"/></p></li>
 </ul>
 
 <h1>Staff Colors</h1>
