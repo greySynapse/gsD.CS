@@ -1,0 +1,283 @@
+/* FULL CHANGE LOG */
+/* 
+	[hover]  = On Mouse Hover
+	[static] = Default Behavior
+ */
+/*******************************************/
+/*
+	** 	Staff Rank Icons [RDJ through Admin]
+	
+	** 	Staff Rank Colors [RDJ through Admin]
+	
+	** 	5-Color Design Throughout
+	
+	** Most UI Elements Given A Black Background
+	
+	** 	Background Art
+*/
+/*******************************************/
+/*	FOOTER + HEADER, ICONS & PANELS
+
+	** Footer [all on mouse hover]:
+	
+		Social Media
+			- Icon Animations + Panel Visibility Fadein
+			
+		Playlist Icon
+			- Bar Animation
+			
+		User Icons (Inventory, Badge, Store, Profile, Settings)
+			- Animations + Fade Effects
+	
+	** Header [all on mouse hover]:
+	
+		plug.dj Logo
+			- Bar Animation
+			
+		RCS Skip Button
+			- Bar & Icon Animations
+			
+		Room Play History
+			- Bar & Icon Animations
+*/			
+/*******************************************/
+/*	CHAT		
+
+	** Chat [some on mouse hover]:
+	
+		New Chat Messages 
+			- Visibility Fadein
+			
+		Deleted Chat Messages 
+			- Visibility Fadeout
+			
+		Chat Message [hover]
+			- Animation (blue highlight box)
+			
+		Delete Chat Message Icon [hover]
+			- Color Fadein
+			
+		Custom Badge System Setup.
+*/			
+/*******************************************/
+/*	LISTS & ICONS ABOVE CHAT	
+
+	** Icons Directly Above Chat [all on mouse hover]
+		
+		User Chat Settings Icons (Timestamps, Mentions, Pop-out Chat, etc.)
+			- Fade Animations
+		
+		Chat & List Icons (Chat, User List, DJ Wait List, Friend List)
+			- Fade Animations
+			
+	** Users Lists (People here now, Community staff, Bans, Mutes, Ignore list) [all on mouse hover]
+	
+		Icons for Lists
+			- Fading Animations
+	
+		User Names
+			- Fading Name Highlight
+			
+	** Friends List [all on mouse hover]
+	
+		User Names
+			- Fading Name Highlight
+*/			
+/*******************************************/
+/* CENTER UI
+
+	** Woot, Grab, & Meh
+		- Lowered Opacity [static]
+		- Fading Animations [hover]
+		
+	** Join Wait List & Quit DJing
+		- Lowered Opacity [static]
+		- Bar & Fading Animation [hover]
+*/	
+/*******************************************/
+/* PLAYLIST & SONG PANELS
+
+	** Playlist Panel
+		- Lowered Opacity [static]
+		
+	** Playlist List
+
+		Playlist Names
+			- Fading Name Highlight [hover]
+			- Selected Playlist Name Highlight Color [static]
+			
+	** Import Playlist, Create Playlist Buttons
+		- Bar Animation [hover]
+
+	** Activate Playlist Button
+		- Bar Animation [hover]
+		
+	** Rename Playlist, Shuffle Playlist, Delete Playlist Buttons
+		- Bar Animation [hover]
+		
+	** Song List
+
+		Song Names
+			- Fading Name Highlight [hover]
+			- Selected Song Name Highlight Color [static]
+			
+	** Related Media Search (in Song List, magnifying glass)
+	
+		Back Button
+			- Bar & Icon Animation
+			
+	** Song Search
+	
+		Song Names
+			- Fading Name Highlight [hover]
+*/
+/*******************************************/
+/* PLUG.DJ LOGO DROP-DOWN MENU
+
+	** Panel
+		- Lowered Opacity [static]
+		
+	** All Buttons In The Menu
+		- Fading Animations [hover]
+*/
+/*******************************************/
+/* COMMUNITIES TAB *FROM* PLUG.DJ LOGO DROP-DOWN MENU
+
+	** Panel
+		- Lowered Opacity [static]
+	
+	** Search & Favorites Buttons
+		- Fading & Bar Animations [hover]
+		
+	** Communities
+		- Fading Animations [hover]
+		
+	** Join Community Button (while hovering over a Community)
+		- Fading Animation [hover]
+		- Button Highlight Color [hover] 
+*/
+/*******************************************/
+/* DIALOGS (POP UP DIALOGS)
+
+	** Playlist Dialog Boxes
+	
+		Rename Playlist, Delete Playlist Dialogs
+			- Lowered Opacity [static]
+			- Bar & Opacity Animations on Submit or Cancel [hover]
+		
+	** Song List Dialog Boxes
+	
+		Edit Media, Search Media, Delete Media Dialogs
+			- Lowered Opacity [static]
+			- Bar & Opacity Animations on Submit or Cancel (and Switch Media - Edit Media) [hover]
+		 
+	** Gifting Dialog Box
+	
+		Cancel, Send Gift Buttons
+			- Fading & Bar Animations [hover]
+			
+	** User Ban, User Mute, User Promote Boxes
+	
+		Cancel & Submit Buttons
+			- Fading & Bar Animations [hover]
+
+		Duration Buttons
+			- Fading Animations [hover]
+			
+		Reason & Selection Buttons
+			- Fading Animations [hover]
+*/
+/*******************************************/
+/* BACK TO COMMUNITY BUTTON
+
+	- Lowered Opacity [static]
+	- Fading Animation [hover]
+*/
+/*******************************************/
+/* USER MENUS [7 MENUS]
+
+	** Left-Hand-Side Tab-List
+	
+		My Profile, My Stuff, Shop, Friends, Recently Played, My Communities, Settings
+			- Fading Animations [hover]
+			- Active Tab Highlight Color [static]
+			- Tab Highlight Color [hover]
+		
+	** My Profile Tab
+	
+		Black Background [static]
+		
+	** My Stuff Tab
+	
+		Black Background [static]
+		
+		My Avatars, My Badges, Purchase History Buttons
+			- Bar & Fading Animations [hover]
+			
+		User Inventory (Badges & Avatars & Purcahse History)
+			- Lowered Opacity [static]
+			- Fading Animations [hover]
+			
+		User Inventory Drop Down Menu (Badges & Avatars - Categories)
+			- Highlight Color [hover]
+	
+	** Shop Tab
+	
+		Black Background [static]
+		
+		My Avatars, My Badges, Purchase History Buttons
+			- Bar & Fading Animations [hover]
+			
+		User Inventory (Badges & Avatars & Purcahse History)
+			- Lowered Opacity [static]
+			- Fading Animations [hover]
+			
+		Category Drop Down Menu (Badges & Avatars - Categories)
+			- Highlight Color [hover]
+			
+	** Friends Tab
+		
+		Black Background [static]
+		
+		All Friends & Friend Requests Buttons
+			- Bar & Fading Animations [hover]
+			
+		Friends & Friend Request List
+			- Lowered Opacity [static]
+			- Fading Animation [hover]
+			
+		Friend Profile & Unfriend Buttons
+			- Bar & Fading Animation [hover]
+			
+		Friends Requests Accept & Ignore Buttons
+			- Bar & Fading Animation [hover]
+		
+	** Recently Played Tab
+	
+		Black Background [static]
+		
+		Song Highlight Color [hover]
+		
+	** My Communities Tab
+	
+		Black Background [static]
+		
+		Lowered Opacity [static]
+		
+		Community Boxes
+			- Fading Animation [hover]
+			
+		Join Community Button 
+			- Highlight & Fading Animation [hover]
+		
+	** My Settings Tab
+	
+		Black Background [static]
+
+		Application & Account Button
+			- Bar & Fading Animations
+			
+		Application
+			- Highlight Color On Options [hover]
+*/
+
