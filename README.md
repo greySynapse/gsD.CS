@@ -47,6 +47,7 @@
   <li><a href="http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/7a/Emoticon_salty.gif?version=0c2f6756952b7c29ed0adc0d17b4c5a2" target="_blank">:d2salty:</a></li>
   <li><a href="http://hydra-media.cursecdn.com/dota2.gamepedia.com/5/5b/Emoticon_tears.gif?version=c8678e5807a8c8ff6dadf38c9f8338f5" target="_blank">:d2cry:</a></li>
   <li><a href="http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/d9/Emoticon_surprise.gif?version=395640aa022368f92485cd252722128b" target="_blank">:d2surprise:</a></li>
+  <li><a href="http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/f7/Emoticon_horse.gif?version=81e77e5a46b5b6388ccb017682af6664" target="_blank">:d2horse:</a></li>
 </ul>
 
 <h1>Cool CSS Tricks</h1>
