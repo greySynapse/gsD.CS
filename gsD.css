@@ -1,37 +1,6 @@
 /*  Community Theme Styling */
 /*  By donvoo & greySynapse */
 
-/*  
-    Entire Changelist
-
-        - STATICS
-                 - COLOR
-                 - Footer Elements [colorBlack]
-            - TRANSPARENCY
-                - Playlist Panel [0.95]
-                - Woot, Meh, Grab [0.6]
-                - DJ [0.6]
-        - ANIMATIONS
-            - OPACITY
-                - Inventory, Badge, Store, Profile, Settings [hover0.5, buttonHover1.0]
-                - Woot, Meh, Grab [hover0.6, buttonHover1.0]
-                - DJ [hover1.0]
-                - User Rollover [hover0.3, buttonHover1.0]
-            - FULL SPIN
-                - History Icon [hover]
-                - Settings Icon [hover]
-            - PARTIAL SPIN
-                - Facebook Logo [hover]
-                - Twitter Logo [hover]
-                - Shop Icon [hover]
-            - SHAKE
-                - RCS Skip [hover]
-            - FADEIN
-                - Facebook Menu [hover]
-                - Twitter Menu [hover]
-                - Chat Messages
-*/
-
 /********/
 /*TITLES*/
 /********/
@@ -1428,9 +1397,10 @@
 /*********/
 /*7 MENUS*/
 /*********/
+
 /* SIDE MENU */
 #user-menu{
-        background: rgba(0, 0, 0, 1);
+        background:             rgba(0, 0, 0, 1);
 }
 
 #user-menu .avatar,
@@ -1442,7 +1412,7 @@
 #user-menu .community,
 #user-menu .settings
 {
-        opacity: .85;
+        opacity:                0.85;
         -webkit-transition:     all 0.3s linear;
         -moz-transition:        all 0.3s linear;
         -o-transition:          all 0.3s linear;
@@ -1457,7 +1427,7 @@
 #user-menu:hover > .community,
 #user-menu:hover > .settings
 {
-        opacity: .55;
+        opacity:                0.35;
 }
 
 #user-menu .profile:hover,
@@ -1468,16 +1438,16 @@
 #user-menu .community:hover,
 #user-menu .settings:hover
 {
-        opacity: 1;
-        background: rgba(50, 60, 105, 1);
+        opacity:                1;
+        background:             rgba(50, 60, 105, 1);
 
 }
 
 /* PROFILE */
 #the-user-profile
 {
-        background: rgba(0, 0, 0, 1);
-        border-left: 3px solid rgba(42, 29, 64, 1);
+        background:             rgba(0, 0, 0, 1);
+        border-left:            3px solid rgba(42, 29, 64, 1);
 }
 
 #the-user-profile .subscribe-button
@@ -1491,8 +1461,8 @@
 /* MY STUFF */
 #user-inventory
 {
-        background: rgba(0, 0, 0, 1);
-        border-left: 3px solid rgba(42, 29, 64, 1);
+        background:             rgba(0, 0, 0, 1);
+        border-left:            3px solid rgba(42, 29, 64, 1);
 }
 
 #user-inventory .tab-menu button
@@ -1515,7 +1485,6 @@
         box-shadow:             inset 0 -5px 0 0 rgba(40, 44, 53, 1) !important;
 }
 
-
 #user-inventory .tab-menu button:not(.selected):hover
 {
         webkit-box-shadow:      inset 0 -5px 0 0 rgba(146, 90, 255, 1) !important;
@@ -1536,17 +1505,17 @@
 
 #user-inventory dd .row:hover
 {
-        background: rgba(50, 60, 105, 1);
+        background:             rgba(50, 60, 105, 1);
 }
 
 #user-inventory .jspPane .cell
 {
-        opacity: .55 !important;
+        opacity:                0.55 !important;
 }
 
 #user-inventory .jspPane .cell:hover
 {
-        opacity: 1 !important;
+        opacity:                1 !important;
 }
 
 #user-inventory .row
@@ -1555,19 +1524,19 @@
         -moz-transition:        all 0.3s linear;
         -o-transition:          all 0.3s linear;
         transition:             all 0.3s linear;
-        opacity: .75;
+        opacity:                0.75;
 }
 
 #user-inventory .row:hover
 {
-        opacity: 1 !important;
+        opacity:                1 !important;
 }
 
 /* SHOP */
 #user-store
 {
-        background: rgba(0, 0, 0, 1);
-        border-left: 3px solid rgba(42, 29, 64, 1);
+        background:             rgba(0, 0, 0, 1);
+        border-left:            3px solid rgba(42, 29, 64, 1);
 }
 
 #user-store .tab-menu button
@@ -1611,25 +1580,25 @@
 
 #user-store dd .row:hover
 {
-        background: rgba(50, 60, 105, 1);
+        background:             rgba(50, 60, 105, 1);
 }
 
 #user-store .jspPane .cell
 {
-        opacity: .55 !important;
+        opacity:                0.55 !important;
 }
 
 #user-store .jspPane .cell:hover
 {
-        opacity: 1 !important;
+        opacity:                1 !important;
 }
 
 
 /* FRIENDS */
 #user-friends
 {
-        background: rgba(0, 0, 0, 1);
-        border-left: 3px solid rgba(42, 29, 64, 1);
+        background:             rgba(0, 0, 0, 1);
+        border-left:            3px solid rgba(42, 29, 64, 1);
 }
 
 #user-friends .tab-menu button
@@ -1669,18 +1638,18 @@
         -moz-transition:        all 0.3s linear;
         -o-transition:          all 0.3s linear;
         transition:             all 0.3s linear;
-        opacity: .75;
+        opacity:                0.75;
 }
 
 #user-friends .list .row:hover
 {
-        opacity: 1 !important;
+        opacity:                1 !important;
 }
 
 #user-friends .list .row .buttons .positive,
 #user-friends .list .row .buttons .negative
 {
-        background: rgba(45, 49, 58, 1) !important;
+        background:             rgba(45, 49, 58, 1) !important;
 }
 
 #user-friends .list .row .buttons .positive:hover
@@ -1689,7 +1658,6 @@
         -moz-box-shadow:        inset 0 -5px 0 0 rgba(7, 124, 174, 1) !important;
         -o-box-shadow:          inset 0 -5px 0 0 rgba(7, 124, 174, 1) !important;
         box-shadow:             inset 0 -5px 0 0 rgba(7, 124, 174, 1) !important;
-        opacity: .55;
 }
 
 #user-friends .list .row .buttons .negative:hover
@@ -1698,14 +1666,13 @@
         -moz-box-shadow:        inset 0 -5px 0 0 rgba(187, 66, 45, 1) !important;
         -o-box-shadow:          inset 0 -5px 0 0 rgba(187, 66, 45, 1) !important;
         box-shadow:             inset 0 -5px 0 0 rgba(187, 66, 45, 1) !important;
-        opacity: .55;
 }
 
 /* RECENTLY PLAYED */
 #user-history
 {
-      background: rgba(0, 0, 0, 1); 
-      border-left: 3px solid rgba(42, 29, 64, 1); 
+      background:               rgba(0, 0, 0, 1); 
+      border-left:              3px solid rgba(42, 29, 64, 1); 
 }
 
 #user-history .row
@@ -1766,8 +1733,8 @@
 /* SETTINGS */
 #user-settings
 {
-      background: rgba(0, 0, 0, 1);
-      border-left: 3px solid rgba(42, 29, 64, 1);
+      background:               rgba(0, 0, 0, 1);
+      border-left:              3px solid rgba(42, 29, 64, 1);
 }
 
 #user-settings .tab-menu button
@@ -1825,8 +1792,7 @@
 #user-settings .s-dj:hover,
 #user-settings .s-score:hover
 {
-        background: rgba(50, 60, 105, 1);
-        opacity: .5;
+        background:             rgba(50, 60, 105, 0.3) !important;
 }
 
 #user-settings .account .right button, #user-settings .account .left dd .row
@@ -1843,20 +1809,20 @@
         -moz-box-shadow:        inset 0 -5px 0 0 rgba(240, 79, 48, 1) !important;
         -o-box-shadow:          inset 0 -5px 0 0 rgba(240, 79, 48, 1) !important;
         box-shadow:             inset 0 -5px 0 0 rgba(240, 79, 48, 1) !important;
-        background: rgba(40, 44, 53, 1);
+        background:             rgba(40, 44, 53, 1);
 }
 
 #user-settings .account .left dd .row:hover
 {
-        background: rgba(50, 60, 105, 1);
+        background:             rgba(50, 60, 105, 1);
 }
 
 /* EXTRA */
 
 #footer-user .back
 {
-        background: rgba(0, 0, 0, 1);
-        opacity: .55;
+        background:             rgba(0, 0, 0, 1);
+        opacity:                0.55;
         -webkit-transition:     all 0.3s linear;
         -moz-transition:        all 0.3s linear;
         -o-transition:          all 0.3s linear;
@@ -1865,7 +1831,7 @@
 
 #footer-user .back:hover
 {
-        opacity: 1;
+        opacity:                1;
 }
 
 /******/
