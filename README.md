@@ -50,17 +50,4 @@
   <li><a href="http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/f7/Emoticon_horse.gif?version=81e77e5a46b5b6388ccb017682af6664" target="_blank">:d2horse:</a></li>
 </ul>
 
-<h1>Cool CSS Tricks</h1>
-<ul>
-  <li>
-    <p>input:checked</p>
-  </li>
-  <li>
-    <p>http://www.w3schools.com/css/css_pseudo_elements.asp</p>
-  </li>
-  <li>
-    <p>:not()</p>
-  </li>
-</ul>
-
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png" /></a><br /> <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">gsD.CS</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName"> greySynapse & Don.</span> This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License</a>.
