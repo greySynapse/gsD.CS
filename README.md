@@ -44,7 +44,7 @@
   <li><a href="http://i.imgur.com/2xQpOh6.gif" target="_blank">:rainbowllama:</a></li>
   <li><a href="http://i.imgur.com/ZbRznPp.gif" target="_blank">:nat:</a></li>
   <li><a href="http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/e4/Emoticon_rage.gif?version=6887e870be370c1439ea8cf58e0d0a3a" target="_blank">:d2rage:</a></li>
-  
+  <li><a href="http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/7a/Emoticon_salty.gif?version=0c2f6756952b7c29ed0adc0d17b4c5a2" target="_blank">:d2salty:</a></li>
 </ul>
 
 <h1>Cool CSS Tricks</h1>
