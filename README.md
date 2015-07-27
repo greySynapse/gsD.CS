@@ -40,6 +40,7 @@
   <li><a href="http://fc09.deviantart.net/fs71/f/2015/035/1/b/rainbow_sheep_by_addmedia-d8gpqbw.gif" target="_blank">:rainbowsheep:</a></li>
   <li><a href="http://i.imgur.com/kF7m9Ab.gif" target="_blank">:twerk:</a></li>
   <li><a href="http://i.imgur.com/EOuLASw.gif" target="_blank">:banned:</a></li>
+  <li><a href="http://i.imgur.com/TC6h5uy.gif" target="_blank">:kawaiighost:</a></li>
 </ul>
 
 <h1>Cool CSS Tricks</h1>
