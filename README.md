@@ -1,5 +1,6 @@
-<h1>Styling</h1>
+<h1>Community Styling</h1>
 <blockquote><p>Made by <a href="https://github.com/donvoo" target="_blank">donvoo</a> and <a href="https://github.com/greySynapse" target="_blank">greySynapse</a>.</p></blockquote>
+<blockquote><p>Special Thanks to <a href="https://rcs.radiant.dj/="_blank">RCS</a>!</p></blockquote>
 
 <h1>Future Updates!</h1>
 <ul>
