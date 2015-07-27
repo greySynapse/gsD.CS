@@ -5,15 +5,15 @@
  */
 /*******************************************/
 /*
-	** 	Staff Rank Icons [RDJ through Admin]
+	** Staff Rank Icons [RDJ through Admin]
 	
-	** 	Staff Rank Colors [RDJ through Admin]
+	** Staff Rank Colors [RDJ through Admin]
 	
-	** 	5-Color Design Throughout
+	** 5-Color Design Throughout
 	
 	** Most UI Elements Given A Black Background
 	
-	** 	Background Art
+	** Background Art
 */
 /*******************************************/
 /*	FOOTER + HEADER, ICONS & PANELS
