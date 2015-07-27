@@ -4,7 +4,7 @@
 	[static] = Default Behavior
  */
 /*******************************************/
-/*
+/* GENERAL
 	** Staff Rank Icons [RDJ through Admin]
 	
 	** Staff Rank Colors [RDJ through Admin]
@@ -16,7 +16,7 @@
 	** Background Art
 */
 /*******************************************/
-/*	FOOTER + HEADER, ICONS & PANELS
+/* FOOTER + HEADER, ICONS & PANELS
 
 	** Footer [all on mouse hover]:
 	
@@ -41,7 +41,7 @@
 			- Bar & Icon Animations
 */			
 /*******************************************/
-/*	CHAT		
+/* CHAT		
 
 	** Chat [some on mouse hover]:
 	
@@ -60,7 +60,7 @@
 		Custom Badge System Setup.
 */			
 /*******************************************/
-/*	LISTS & ICONS ABOVE CHAT	
+/* LISTS & ICONS ABOVE CHAT	
 
 	** Icons Directly Above Chat [all on mouse hover]
 		
