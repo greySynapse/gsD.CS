@@ -41,6 +41,7 @@
   <li><a href="http://i.imgur.com/kF7m9Ab.gif" target="_blank">:twerk:</a></li>
   <li><a href="http://i.imgur.com/EOuLASw.gif" target="_blank">:banned:</a></li>
   <li><a href="http://i.imgur.com/TC6h5uy.gif" target="_blank">:kawaiighost:</a></li>
+  <li><a href="http://i.imgur.com/2xQpOh6.gif" target="_blank">:rainbowllama:</a></li>
 </ul>
 
 <h1>Cool CSS Tricks</h1>
