@@ -1,4 +1,4 @@
-<h1>Community Styling</h1>
+<h1>NC 331 Community Styling</h1>
 <blockquote><p>Made by <a href="https://github.com/donvoo" target="_blank">donvoo</a> and <a href="https://github.com/greySynapse" target="_blank">greySynapse</a>.</p></blockquote>
 <blockquote><p>Special Thanks to <a href="https://rcs.radiant.dj/" target="_blank">RCS</a>!</p></blockquote>
 
