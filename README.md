@@ -39,6 +39,7 @@
   <li><a href="http://orig09.deviantart.net/443e/f/2015/168/2/7/pusheen_icon_2_by_captaingam-d8xqk8y.gif" target="_blank">:doncat:</a></li>
   <li><a href="http://fc09.deviantart.net/fs71/f/2015/035/1/b/rainbow_sheep_by_addmedia-d8gpqbw.gif" target="_blank">:rainbowsheep:</a></li>
   <li><a href="http://i.imgur.com/kF7m9Ab.gif" target="_blank">:twerk:</a></li>
+  <li><a href="http://i.imgur.com/EOuLASw.gif" target="_blank">:banned:</a></li>
 </ul>
 
 <h1>Cool CSS Tricks</h1>
