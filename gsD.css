@@ -209,7 +209,7 @@
 #dialog-mute-user .dialog-body .duration .toggle.medium,
 #dialog-mute-user .dialog-body .duration .toggle.long,
 #dialog-mute-user .dialog-body ul li:nth-child(n+1),
-#dialog-mute-user .dialog-body li .radio,
+#dialog-mute-user .dialog-body li .radio
 {
         opacity:                1;
 
@@ -233,7 +233,7 @@
 #dialog-mute-user .dialog-body .duration:hover > .toggle.medium,
 #dialog-mute-user .dialog-body .duration:hover > .toggle.long,
 #dialog-mute-user .dialog-body ul:hover > li:nth-child(n+1),
-#dialog-mute-user .dialog-body li .radio,
+#dialog-mute-user .dialog-body li .radio
 {
         opacity:                0.3;
 }
