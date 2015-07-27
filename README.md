@@ -42,6 +42,8 @@
   <li><a href="http://i.imgur.com/EOuLASw.gif" target="_blank">:banned:</a></li>
   <li><a href="http://i.imgur.com/TC6h5uy.gif" target="_blank">:kawaiighost:</a></li>
   <li><a href="http://i.imgur.com/2xQpOh6.gif" target="_blank">:rainbowllama:</a></li>
+  <li><a href="http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/e4/Emoticon_rage.gif?version=6887e870be370c1439ea8cf58e0d0a3a" target="_blank">:d2rage:</a></li>
+  
 </ul>
 
 <h1>Cool CSS Tricks</h1>
