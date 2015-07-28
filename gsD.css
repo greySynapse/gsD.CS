@@ -316,6 +316,30 @@
         box-shadow:             inset 0 -8px 0 0 rgba(146, 90, 255, 1) !important;  
 }
 
+/* Video Preview Dialog [In Song List] */
+
+#dialog-preview .dialog-frame
+{
+        background: rgba(0, 0, 0, 1) !important;
+}
+
+#dialog-preview .dialog-frame .button.submit
+{
+        -webkit-transition:     all 0.3s linear;
+        -moz-transition:        all 0.3s linear;
+        -o-transition:          all 0.3s linear;
+        transition:             all 0.3s linear;
+}
+
+#dialog-preview .dialog-frame .button.submit:hover
+{
+        -webkit-box-shadow:     inset 0 -8px 0 0 rgba(0, 156, 221, 1) !important;
+        -moz-box-shadow:        inset 0 -8px 0 0 rgba(0, 156, 221, 1) !important;
+        -o-box-shadow:          inset 0 -8px 0 0 rgba(0, 156, 221, 1) !important;
+        box-shadow:             inset 0 -8px 0 0 rgba(0, 156, 221, 1) !important;
+ 
+}
+
 /********/
 /*HEADER*/
 /********/
@@ -1838,6 +1862,23 @@
 #playback .background 
 {
         visibility:             hidden;
+}
+
+/***************/
+/*NAME STYLINGS*/
+/***************/
+
+/* Enyx */
+[data-cid^="3684485-"] .msg .from .un 
+{
+        color:                  #000 !important;
+        text-shadow:            0px 0px 1px #ac76ff, 0px 0px 5px #ac76ff, 0px 0px 15px #ac76ff !important;
+}
+
+/* Rin */
+[data-cid^="5653326"] .msg .from .un
+{
+        color:                   rgba(245, 40, 135, 1) !important;
 }
 
 /**************/
