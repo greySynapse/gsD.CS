@@ -1903,6 +1903,13 @@
         color:                   rgba(54, 179, 215, 1) !important;
 }
 
+/* Kage */
+[data-cid^="3852661"] .msg .from .un
+{
+        /* Sky Blue */
+        color:                   rgba(24, 196, 252, 1) !important;
+}
+
 /**************/
 /*TEST SECTION*/
 /**************/
