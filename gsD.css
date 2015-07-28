@@ -1834,6 +1834,12 @@
         opacity:                1;
 }
 
+/* Video Player Background */
+#playback .background 
+{
+        visibility:             hidden;
+}
+
 /**************/
 /*TEST SECTION*/
 /**************/
