@@ -170,6 +170,9 @@
 		Edit Media, Search Media, Delete Media Dialogs
 			- Lowered Opacity [static]
 			- Bar & Opacity Animations on Submit or Cancel (and Switch Media - Edit Media) [hover]
+		Double Click Song Preview Dialog
+			- Black Background [static]
+			- Bar Animation on Close [hover]
 		 
 	** Gifting Dialog Box
 	
