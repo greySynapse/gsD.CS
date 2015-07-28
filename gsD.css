@@ -1878,7 +1878,15 @@
 /* Rin */
 [data-cid^="5653326"] .msg .from .un
 {
+        /* Pink */
         color:                   rgba(255, 92, 175, 1) !important;
+}
+
+/* That Random Guy */
+[data-cid^="4105479"] .msg .from .un
+{
+        /* Orange */
+        color:                   rgba(236, 126, 51, 1) !important;
 }
 
 /**************/
