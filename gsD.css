@@ -1889,6 +1889,20 @@
         color:                   rgba(236, 126, 51, 1) !important;
 }
 
+/* Kirby */
+[data-cid^="3893149"] .msg .from .un
+{
+        /* Pink */
+        color:                   rgba(230, 122, 227, 1) !important;
+}
+
+/* Meow */
+[data-cid^="3901318"] .msg .from .un
+{
+        /* Teal */
+        color:                   rgba(54, 179, 215, 1) !important;
+}
+
 /**************/
 /*TEST SECTION*/
 /**************/
