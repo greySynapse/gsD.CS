@@ -53,6 +53,7 @@
   <li><a href="http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/d9/Emoticon_surprise.gif?version=395640aa022368f92485cd252722128b" target="_blank">:d2surprise:</a></li>
   <li><a href="http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/f7/Emoticon_horse.gif?version=81e77e5a46b5b6388ccb017682af6664" target="_blank">:d2horse:</a></li>
   <li><a href="http://i.imgur.com/CygrZK8.png" target="_blank">:papaya:</a></li>
+  <li><a href="http://i.imgur.com/GGtRmcy.gif" target="_blank">:4ninja:</a></li>
 </ul>
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png" /></a><br /> <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">gsD.CS</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName"> greySynapse & Don.</span> This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License</a>.
