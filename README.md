@@ -41,6 +41,7 @@
   <li><a href="http://fc07.deviantart.net/fs71/f/2014/359/e/5/pusheen_eating_ramen_by_pikuniku-d8b5irh.gif" target="_blank">:doncatnoodles:</a></li>
   <li><a href="http://static.planetminecraft.com/files/avatar/1754804_4.gif" target="_blank">:doncatcute:</a></li>
   <li><a href="http://orig02.deviantart.net/956e/f/2014/201/6/9/_free_avatar__chef_pusheen_by_jericam-d7rhjnt.gif" target="_blank">:doncatcookies:</a></li>
+  <li><a href="http://i.imgur.com/1ZHNSS5.gif" target="_blank">:doyan:</a></li>
   <li><a href="http://fc09.deviantart.net/fs71/f/2015/035/1/b/rainbow_sheep_by_addmedia-d8gpqbw.gif" target="_blank">:rainbowsheep:</a></li>
   <li><a href="http://i.imgur.com/kF7m9Ab.gif" target="_blank">:twerk:</a></li>
   <li><a href="http://i.imgur.com/EOuLASw.gif" target="_blank">:banned:</a></li>
