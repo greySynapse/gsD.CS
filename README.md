@@ -41,7 +41,7 @@
   <li><a href="http://fc07.deviantart.net/fs71/f/2014/359/e/5/pusheen_eating_ramen_by_pikuniku-d8b5irh.gif" target="_blank">:doncatnoodles:</a></li>
   <li><a href="http://static.planetminecraft.com/files/avatar/1754804_4.gif" target="_blank">:doncatcute:</a></li>
   <li><a href="http://orig02.deviantart.net/956e/f/2014/201/6/9/_free_avatar__chef_pusheen_by_jericam-d7rhjnt.gif" target="_blank">:doncatcookies:</a></li>
-  <li><a href="http://i.imgur.com/1ZHNSS5.gif" target="_blank">:doyan:</a></li>
+  <li><a href="http://i.imgur.com/iyMbKlX.gif" target="_blank">:doyan:</a></li>
   <li><a href="http://fc09.deviantart.net/fs71/f/2015/035/1/b/rainbow_sheep_by_addmedia-d8gpqbw.gif" target="_blank">:rainbowsheep:</a></li>
   <li><a href="http://i.imgur.com/kF7m9Ab.gif" target="_blank">:twerk:</a></li>
   <li><a href="http://i.imgur.com/EOuLASw.gif" target="_blank">:banned:</a></li>
@@ -56,7 +56,8 @@
   <li><a href="http://i.imgur.com/CygrZK8.png" target="_blank">:papaya:</a></li>
   <li><a href="http://i.imgur.com/GGtRmcy.gif" target="_blank">:4ninja:</a></li>
   <li><a href="http://i.imgur.com/2NSEZr3.gif" target="_blank">:4neko:</a></li>
-  <li><a href="http://i.imgur.com/RTAafmV.jpg" target="_blank">:4neko:</a></li>
+  <li><a href="http://i.imgur.com/8qIYB9k.gif" target="_blank">:4play:</a></li>
+  <li><a href="http://i.imgur.com/RTAafmV.jpg" target="_blank">:res:</a></li>
 </ul>
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png" /></a><br /> <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">gsD.CS</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName"> greySynapse & Don.</span> This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License</a>.
