@@ -60,6 +60,8 @@
   <li><a href="http://i.imgur.com/RTAafmV.jpg" target="_blank">:res:</a></li>
   <li><a href="http://i.imgur.com/u9wayzx.png" target="_blank">:umaru:</a></li>
   <li><a href="http://i.imgur.com/pFbtK5l.png" target="_blank">:pantsu:</a></li>
+  <li><a href="http://i.imgur.com/JA2YFpK.png" target="_blank">:AsianxAllo:</a></li>
+  <li><a href="http://i.imgur.com/2aSciA1.png" target="_blank">:tuturu:</a></li>
 </ul>
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png" /></a><br /> <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">gsD.CS</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName"> greySynapse & Don.</span> This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License</a>.
