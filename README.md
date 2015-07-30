@@ -58,7 +58,7 @@
   <li><a href="http://i.imgur.com/2NSEZr3.gif" target="_blank">:4neko:</a></li>
   <li><a href="http://i.imgur.com/8qIYB9k.gif" target="_blank">:4play:</a></li>
   <li><a href="http://i.imgur.com/RTAafmV.jpg" target="_blank">:res:</a></li>
-  <li><a href="http://i.imgur.com/u9wayzx.png" target="_blank">:snuggle:</a></li>
+  <li><a href="http://i.imgur.com/u9wayzx.png" target="_blank">:umaru:</a></li>
   <li><a href="http://i.imgur.com/pFbtK5l.png" target="_blank">:pantsu:</a></li>
 </ul>
 
