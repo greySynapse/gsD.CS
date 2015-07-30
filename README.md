@@ -60,7 +60,7 @@
   <li><a href="http://i.imgur.com/RTAafmV.jpg" target="_blank">:res:</a></li>
   <li><a href="http://i.imgur.com/u9wayzx.png" target="_blank">:umaru:</a></li>
   <li><a href="http://i.imgur.com/pFbtK5l.png" target="_blank">:pantsu:</a></li>
-  <li><a href="http://i.imgur.com/JA2YFpK.png" target="_blank">:AsianxAllo:</a></li>
+  <li><a href="http://i.imgur.com/JA2YFpK.png" target="_blank">:asianxallo:</a></li>
   <li><a href="http://i.imgur.com/2aSciA1.png" target="_blank">:tuturu:</a></li>
 </ul>
 
