@@ -1440,6 +1440,28 @@
         background-size:        cover; 
 }
 
+/* 4rr0ws & Anastasia */
+#chat-messages .id-3440313 .badge-box i.bdg,
+#chat-messages .id-6175571 .badge-box i.bdg
+{
+        background-image:       url('http://i.imgur.com/JdcjpNI.png'); 
+        background-size:        cover; 
+}
+
+/* Tatsuya */
+#chat-messages .id-5326211 .badge-box i.bdg
+{ 
+        background-image:       url('http://i.imgur.com/vXSxztG.jpg'); 
+        background-size:        cover; 
+}
+
+/* Kirby */
+#chat-messages .id-3893149 .badge-box i.bdg
+{
+        background-image:       url('http://i.imgur.com/wVoTPJl.png');
+        background-size:        cover;
+}
+
 /*********/
 /*7 MENUS*/
 /*********/
