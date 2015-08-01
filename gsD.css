@@ -1483,6 +1483,20 @@
         background-size:        cover;
 }
 
+/* SamuraiFlamenco */
+#chat-messages .id-5006104 .badge-box i.bdg
+{
+        background-image:       url('http://i.imgur.com/ScHzKoH.jpg');
+        background-size:        cover;
+}
+
+/* Darklight */
+#chat-messages .id-6582089 .badge-box i.bdg
+{
+        background-image:       url('http://i.imgur.com/cyreeo4.png');
+        background-size:        cover;
+}
+
 /*********/
 /*7 MENUS*/
 /*********/
