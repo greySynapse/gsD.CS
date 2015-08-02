@@ -1499,6 +1499,20 @@
         background-size:        cover;
 }
 
+/* Char */
+#chat-messages .id-6181075 .badge-box i.bdg
+{
+        background-image:       url('http://i.imgur.com/B3VAx5q.png');
+        background-size:        cover;
+}
+
+/* RedasTLU */
+#chat-messages .id-4725288 .badge-box i.bdg
+{
+        background-image:       url('http://i.imgur.com/9O4nITF.png');
+        background-size:        cover;
+}
+
 /* NON-STAFF */
 
 /* DREKEN */
