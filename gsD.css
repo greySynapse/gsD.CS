@@ -1397,6 +1397,8 @@
 /*BADGES*/
 /********/
 
+/* STAFF */
+
 /* greySynapse */
 #chat-messages .id-4107431 .badge-box i.bdg
 { 
@@ -1494,6 +1496,15 @@
 #chat-messages .id-6582089 .badge-box i.bdg
 {
         background-image:       url('http://i.imgur.com/cyreeo4.png');
+        background-size:        cover;
+}
+
+/* NON-STAFF */
+
+/* DREKEN */
+#chat-messages .id-3632408 .badge-box i.bdg
+{
+        background-image:       url('http://i.imgur.com/6dGN02b.gif');
         background-size:        cover;
 }
 
