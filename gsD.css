@@ -2104,3 +2104,20 @@
 /**************/
 /*TEST SECTION*/
 /**************/
+
+/* 
+/* ADDS MORE ICONS
+[data-cid^="4107431"] .msg .from .un::before
+{
+        content: url("http://i.imgur.com/EBEFOAY.png");
+        float: left !important;
+        margin-right: 5px;
+}
+
+[data-cid^="4107431"] .msg .from .un::after
+{
+        content: url("http://i.imgur.com/HWucg1I.png");
+        float: left !important;
+        margin-right: 5px;
+}
+*/
