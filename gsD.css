@@ -2060,6 +2060,20 @@
         color:                   rgba(230, 122, 227, 1) !important;
 }
 
+/* Meow */
+[data-cid^="3901318"] .msg .from .un
+{
+        /* Teal */
+        color:                   rgba(54, 179, 215, 1) !important;
+}
+
+/* Kage */
+[data-cid^="3852661"] .msg .from .un
+{
+        /* Sky Blue */
+        color:                   rgba(24, 196, 252, 1) !important;
+}
+
 /************/
 /*SCROLL BAR*/
 /************/
