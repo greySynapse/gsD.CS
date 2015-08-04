@@ -1573,7 +1573,7 @@
 
 /* BADGE ADJUSTMENT */
 /* Rubber Chicken */
-.bdg-animals01
+#chat-messages .bdg-animals01
 {
         background-position-x:  0px !important;
         background-position-y:  -28px !important;
