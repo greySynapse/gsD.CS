@@ -2088,14 +2088,14 @@
 }
 
 /* 4rr0ws */
-[data-cid^=3440313] .msg .from .un
+[data-cid^="3440313"] .msg .from .un
 {
         /* Lime Green */
         color:                   rgba(153, 255, 51, 1) !important;
 }
 
 /* greySynapse */
-[data-cid^=4107431] .msg .from .un
+[data-cid^="4107431"] .msg .from .un
 {
         /* Grey */
         color:                  rgba(187, 184, 203, 1) !important;
