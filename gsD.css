@@ -1442,11 +1442,17 @@
         background-size:        cover; 
 }
 
-/* 4rr0ws & Anastasia */
-#chat-messages .id-3440313 .badge-box i.bdg,
+/* PixelBreeze */
 #chat-messages .id-6175571 .badge-box i.bdg
 {
         background-image:       url('http://i.imgur.com/JdcjpNI.png'); 
+        background-size:        cover; 
+}
+
+/* 4rr0ws */
+#chat-messages .id-3440313 .badge-box i.bdg
+{
+        background-image:       url('http://i.imgur.com/z9oVaTv.png'); 
         background-size:        cover; 
 }
 
@@ -2079,6 +2085,20 @@
 {
         /* Pink */
         color:                   rgba(230, 122, 227, 1) !important;
+}
+
+/* 4rr0ws */
+[data-cid^=3440313] .msg .from .un
+{
+        /* Lime Green */
+        color:                   rgba(153, 255, 51, 1) !important;
+}
+
+/* greySynapse */
+[data-cid^=4107431] .msg .from .un
+{
+        /* Grey */
+        color:                  rgba(187, 184, 203, 1) !important;
 }
 
 /* Meow */
