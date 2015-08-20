@@ -62,6 +62,15 @@
   <li><a href="http://i.imgur.com/pFbtK5l.png" target="_blank">:pantsu:</a></li>
   <li><a href="http://i.imgur.com/JA2YFpK.png" target="_blank">:asianxallo:</a></li>
   <li><a href="http://i.imgur.com/2aSciA1.png" target="_blank">:tuturu:</a></li>
+  <li><a href="http://i.imgur.com/fjUDqUt.gif" target="_blank">:catbird:</a></li>
+  <li><a href="http://i.imgur.com/7Ywnc9O.png" target="_blank">:rin:</a></li>
+  <li><a href="http://i.imgur.com/caa26YO.png" target="_blank">:illya:</a></li>
+  <li><a href="http://i.imgur.com/CNX9Sda.png" target="_blank">:kabum:</a></li>
+  <li><a href="http://i.imgur.com/pfYieXr.png" target="_blank">:tazzyshower:</a></li>
+  <li><a href="http://i.imgur.com/P9w2bBq.jpg" target="_blank">:trgsfear:</a></li>
+  <li><a href="http://i.imgur.com/IJnAA5D.png" target="_blank">:rinloli:</a></li>
+  <li><a href="http://i.imgur.com/ZcXheej.gif" target="_blank">:petme:</a></li>
+  <li><a href="http://i.imgur.com/fDPfNZd.gif" target="_blank">:sadneko:</a></li>
 </ul>
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png" /></a><br /> <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">gsD.CS</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName"> greySynapse & Don.</span> This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License</a>.
