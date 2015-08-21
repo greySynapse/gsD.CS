@@ -2128,6 +2128,14 @@
         color:                  rgba(187, 184, 203, 1) !important;
 }
 
+/* Dyll / Erio */
+[data-cid^="5762084"] .msg .from .un
+{
+        color:                  rgba(22, 196, 228, 1) !important ;
+}
+
+/* Non - Staff */
+
 /* Meow */
 [data-cid^="3901318"] .msg .from .un
 {
