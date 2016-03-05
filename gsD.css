@@ -2227,6 +2227,14 @@
         color:                   rgba(24, 196, 252, 1) !important;
 }
 
+/* TBH */
+[data-cid^="3620521"] .msg .from .un
+{
+        /* Sky Blue */
+        color: rgb(255, 0, 245) !important; 
+        text-shadow: 0px 0px 10px rgb(35, 200, 208);
+}
+
 /************/
 /*SCROLL BAR*/
 /************/
